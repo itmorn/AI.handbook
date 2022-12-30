@@ -37,18 +37,29 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
          title="https://twitter.com/DataScienceDojo/status/1557140164861902856"
          width="70%"/>
 </p>
-机器学习是一个范围宽阔、内容繁多、应用广泛的领域，并不存在(至少现在不存在)一个统一的理论体系涵盖所有内容。比如在上图中:
+机器学习是一个范围宽阔、内容繁多、应用广泛的领域，并不存在(至少现在不存在)一个统一的理论体系涵盖所有内容[李航]。比如在上图中:
 
 > Artificial intelligence下的Natural language processing(**自然语言处理**,NLP)就是一个抽象程度很高的任务，其子任务可以包括**自然语言理解**(Natural Language Understanding)和**自然语言推理**(Natural Language Inference)等。  
 > 而Machine learning中的Linear regression又是一个具体的算法。
-> 再看Deep learning中的CNN又变成了一类技术的统称。  
+> 再看Deep learning中的CNN又是一类技术的统称。  
 
-这个问题对很多AI从业者造成了困扰，但我们必须面对这个现实。
+这个问题对很多AI学习、从业者造成了困扰，但我们必须面对这个现实。
 
-那么本仓库该如何对这个纷繁的大知识树进行组织梳理呢？不同的人群又该如何使用本仓库呢？
+那么本仓库中，该如何对这个纷繁的大知识树进行组织梳理呢？不同的人群又该如何使用本仓库呢？
 
-# 本仓库的定位
-因此，我们不必纠结与各种理论体系下的概念，当我们听到某个专业名词知道其表达的含义就足够了。机器学习如此，人工智能亦如此。   
+# 本仓库对知识的组织方式
+由于AI领域不存在统一的理论体系，当我们听到别人说到某个专业名词时，能知道其表达的含义就足够了。
+
+其实参考大部分AI从业者的学习路径就是一个不错的选择。俗话说，世界上本没有路，走的人多了也便成了路。这样，无论是在面试中、还是和同学同事交流中都不会引起太大的歧义。
+
+国内比较流行的AI资料有[《机器学习》(周志华著)](https://item.jd.com/12762673.html)、[《统计学习方法》(李航著)](https://item.jd.com/12522197.html)、[Andrew Ng的Coursera课程](https://www.coursera.org/instructor/andrewng)，还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)等。
+
+
+
+
+
+
+
 
 
 
