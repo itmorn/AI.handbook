@@ -1,4 +1,5 @@
-# 总览人工智能、机器学习和深度学习
+# 前言
+在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，帮助读者建立对**人工智能知识架构**的整体把握。
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
