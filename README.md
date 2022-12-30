@@ -31,16 +31,23 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 </br>
 下面再展示一张比较流行的韦恩图，也许能进一步帮助你建立更清晰的知识层级：
-
-
 <p align="center">
     <img src="./imgs/Relationship_between_artificial_intelligence_machine_learning_neural_network_and_deep_learning.jpg"
          title="https://twitter.com/DataScienceDojo/status/1557140164861902856"
          width="70%"/>
 </p>
+机器学习是一个范围宽阔、内容繁多、应用广泛的领域，并不存在(至少现在不存在)一个统一的理论体系涵盖所有内容。比如在上图中:
+
+> Artificial intelligence下的Natural language processing(**自然语言处理**,NLP)就是一个抽象程度很高的任务，其子任务可以包括**自然语言理解**(Natural Language Understanding)和**自然语言推理**(Natural Language Inference)等。  
+> 而Machine learning中的Linear regression又是一个具体的算法。
+> 再看Deep learning中的CNN又变成了一类技术的统称。  
+
+这个问题对很多AI从业者造成了困扰，但我们必须面对这个现实。
+
+那么本仓库该如何对这个纷繁的大知识树进行组织梳理呢？不同的人群又该如何使用本仓库呢？
 
 # 本仓库的定位
-
+因此，我们不必纠结与各种理论体系下的概念，当我们听到某个专业名词知道其表达的含义就足够了。机器学习如此，人工智能亦如此。   
 
 
 
