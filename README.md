@@ -3,14 +3,14 @@
     <center>
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
-         style="zoom:0.5"/>
+         style="zoom:1"/>
     </center>
 </div>
 <div>
     <center>
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning.png"
          title="https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design"
-         style="zoom:0.65"/>
+         style="zoom:1"/>
     </center>
 </div>
 
