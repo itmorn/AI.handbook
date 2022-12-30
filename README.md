@@ -3,7 +3,7 @@
     <center>
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
-         style="zoom:1"/>
+         style="zoom:0.76"/>
     </center>
 </div>
 <div>
