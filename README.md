@@ -1,6 +1,8 @@
 # 更新日志
 2023年1月1日 完成前言部分
+
 <details close>
+<summary>更多...</summary>
 2022年12月30日 新建仓库
 </details></br>
 
@@ -8,6 +10,7 @@
 # 前言
 在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，帮助读者建立对**人工智能知识架构**的整体把握。
 <details close>
+<summary>更多...</summary>
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
@@ -61,6 +64,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 在该小结中，我们介绍本仓库对知识的组织方式。我们尽可能选择一条多数人走过的学习之路，同时会对这期间遇到的知识进行**系统地组织和提炼**，以帮助读者高效、清晰地学习。
 
 <details close>
+<summary>更多...</summary>
 由于AI领域不存在统一的理论体系，当我们听到别人说到某个专业名词时，能知道其表达的含义就足够了。
 
 其实参考大部分AI从业者的学习路径就是一个不错的选择。俗话说，世界上本没有路，走的人多了也便成了路。这样，无论是在面试中、还是和同学同事交流中都不会引起太大的歧义。
@@ -97,6 +101,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 # 如何使用本仓库
 本仓库是一个AI学习手册，知识点繁多，覆盖领域广泛。因此，我们**针对不同的读者，给出一些使用建议**。
 <details close>
+<summary>更多...</summary>
 
 如果你是**AI初学者**。
 > 可以优先学习**机器学习**部分的内容来了解一些基本方法论，并学习一些经典的机器学习算法。然后根据自己的兴趣爱好选择一个主攻的领域，比如计算机视觉或自然语言处理进行专项的学习。
@@ -108,85 +113,44 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 </details></br>
 
 # 机器学习
-
 ## 机器学习基础
-<details close>
-
-| 模型                                                                 | 年份 | 适用问题     | 模型类型 | colab                                                                                                                                                                                      | bilibili | youtube | 论文                                                               |
-| -------------------------------------------------------------------- | ---- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------------------------------------------------------------------ |
-| [感知机(perceptron)](./machine_learning/perceptron/models/README.md) | 1980 | 二分类       | 判别模型 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/machine_learning/perceptron/models/perceptron.ipynb) |          |         | [paper](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519) |
-| k近邻                                                                | 1993 | 多分类、回归 | 判别模型 |                                                                                                                                                                                            |          |         |                                                                    |
-
 
 |            | 年份 | 介绍                 | colab | bilibili | youtube | 论文 |
 | ---------- | ---- | -------------------- | ----- | -------- | ------- | ---- |
 | 数据归一化 | 1980 | 对输入数据的处理方法 |       |          |         |      |
 | EM算法     | 1980 |                      |       |          |         |      |
-
-</details></br>
+</br>
 
 ## 机器学习算法
-<details close>
 
 | 模型                                                                 | 年份 | 适用问题     | 模型类型 | colab                                                                                                                                                                                      | bilibili | youtube | 论文                                                               |
 | -------------------------------------------------------------------- | ---- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------------------------------------------------------------------ |
 | [感知机(perceptron)](./machine_learning/perceptron/models/README.md) | 1980 | 二分类       | 判别模型 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/machine_learning/perceptron/models/perceptron.ipynb) |          |         | [paper](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519) |
 | k近邻                                                                | 1993 | 多分类、回归 | 判别模型 |                                                                                                                                                                                            |          |         |                                                                    |
-
-
-|            | 年份 | 介绍                 | colab | bilibili | youtube | 论文 |
-| ---------- | ---- | -------------------- | ----- | -------- | ------- | ---- |
-| 数据归一化 | 1980 | 对输入数据的处理方法 |       |          |         |      |
-| EM算法     | 1980 |                      |       |          |         |      |
-
-</details></br>
+</br>
 
 # 计算机视觉
 
 ## 计算机视觉基础
-<details close>
 
 | 模型                                                                 | 年份 | 适用问题     | 模型类型 | colab                                                                                                                                                                                      | bilibili | youtube | 论文                                                               |
 | -------------------------------------------------------------------- | ---- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------------------------------------------------------------------ |
 | [感知机(perceptron)](./machine_learning/perceptron/models/README.md) | 1980 | 二分类       | 判别模型 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/machine_learning/perceptron/models/perceptron.ipynb) |          |         | [paper](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519) |
 | k近邻                                                                | 1993 | 多分类、回归 | 判别模型 |                                                                                                                                                                                            |          |         |                                                                    |
-
-
-|            | 年份 | 介绍                 | colab | bilibili | youtube | 论文 |
-| ---------- | ---- | -------------------- | ----- | -------- | ------- | ---- |
-| 数据归一化 | 1980 | 对输入数据的处理方法 |       |          |         |      |
-| EM算法     | 1980 |                      |       |          |         |      |
-
-</details></br>
+</br>
 
 ## 图像分类
-<details close>
 
 | 模型                                                                 | 年份 | 适用问题     | 模型类型 | colab                                                                                                                                                                                      | bilibili | youtube | 论文                                                               |
 | -------------------------------------------------------------------- | ---- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------------------------------------------------------------------ |
 | [感知机(perceptron)](./machine_learning/perceptron/models/README.md) | 1980 | 二分类       | 判别模型 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/machine_learning/perceptron/models/perceptron.ipynb) |          |         | [paper](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519) |
 | k近邻                                                                | 1993 | 多分类、回归 | 判别模型 |                                                                                                                                                                                            |          |         |                                                                    |
-
-
-|            | 年份 | 介绍                 | colab | bilibili | youtube | 论文 |
-| ---------- | ---- | -------------------- | ----- | -------- | ------- | ---- |
-| 数据归一化 | 1980 | 对输入数据的处理方法 |       |          |         |      |
-| EM算法     | 1980 |                      |       |          |         |      |
-
-</details></br>
+</br>
 
 ## 目标检测
-<details close>
 
 | 模型                                                                 | 年份 | 适用问题     | 模型类型 | colab                                                                                                                                                                                      | bilibili | youtube | 论文                                                               |
 | -------------------------------------------------------------------- | ---- | ------------ | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------- | ------- | ------------------------------------------------------------------ |
 | [感知机(perceptron)](./machine_learning/perceptron/models/README.md) | 1980 | 二分类       | 判别模型 | [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/machine_learning/perceptron/models/perceptron.ipynb) |          |         | [paper](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fh0042519) |
 | k近邻                                                                | 1993 | 多分类、回归 | 判别模型 |                                                                                                                                                                                            |          |         |                                                                    |
-
-
-|            | 年份 | 介绍                 | colab | bilibili | youtube | 论文 |
-| ---------- | ---- | -------------------- | ----- | -------- | ------- | ---- |
-| 数据归一化 | 1980 | 对输入数据的处理方法 |       |          |         |      |
-| EM算法     | 1980 |                      |       |          |         |      |
-
-</details></br>
+</br>
