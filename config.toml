@@ -1,6 +1,0 @@
-[blackfriday]
-extensionsmask = ["noIntraEmphasis"]
-fractions = false
-
-[markup.goldmark.renderer]
-unsafe = true
