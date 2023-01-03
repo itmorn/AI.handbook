@@ -63,6 +63,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 在该小结中，我们介绍本仓库对知识的组织方式。我们尽可能选择一条多数人走过的学习之路，同时会对这期间遇到的知识进行**系统地组织和提炼**，以帮助读者高效、清晰地学习。  
 
 本仓库有两种组织方式，分别为技术主题和业务主题，如下：
+<details open>
+<summary><font color="blue">详情</font></summary>
 
 <p align="center">
 <a href ="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Technical_topics.drawio#R7ZzLcqM4FIafRsukAAkhlsZ2MovpqsxkkerZYZBtqjF4MI6TefqRQDI3ueO420qKqDeBowsgnf876iMlAE43L%2FdFuF1%2Fy2OaAseKXwCcAcexkU3YD255rS3EEYZVkcS1yWoMj8l%2FVLSU1n0S052w1aYyz9My2XaNUZ5lNCo7trAo8kO32jJP445hG67owPAYhenQ%2BpTE5Vp%2BhdfY%2F6DJai2fbGO%2FLlmE0Y9Vke8z8bwsz2hdsgllN%2BIbd%2Bswzg8tE5wDOC3yvKyvNi9TmvJh7Y7Y3YnS4ysXNCvPafDn9yIIopt%2FvKfZ4un7Yf7Xw%2F36RvTyHKZ7MRTAwSnrL9htw4y%2FdfkqBgn%2Fu%2BevGizzrLzZVVM4YRVssmVuEDTl7GpV%2FZxjQCaAWPzCn4LJHZgjEBAQsCIfTBzgE%2Fkw9tb180TTesCOj3bYlzBXYDfBYZ2U9HEbRrzkwLyR2dblJmV3NrsM02SVseuIDQotmCGjh3nM5lr25bXelB4Lmpfn33Qsz8qkfP2bpmGZ5NlcUduZNje7MizKCXfGE93VvqFsS7P4wpY7utpwB2g35KpqVYn2xTONuzW6feT7IqIPtEg2lI0aH90kW3UadHtkX7qi5RsNvBmvWVB6x9TIi%2BHMEpZv%2BXNt4FO2TNJ0mqd5UU01XJKIRlE1nkX%2Bg7ZKFsRFLu%2FiqCRLuKOcXVve14BhVJK%2B1JaJ9HlalPSlZRKyuac5%2B6rilVURpdBGdRNBN9fB9f2hYYVtCZmvW5xAwhYKPK2OXTc6ZRdCqu%2BQrTOUbS2yYALmLvCZvAi%2FmMzABFeyYxZrIKs3xFRxjcZSWkUkxrWahIHS%2BHgmDKkTUbBJ4pg%2FSEyk5GrV1b7Md2KOatREtT%2Bg81zGiPpDRd1TbBxSslQqFkeELpYDkf66Im3f7ygSIevWHWiSeENJwmtJEioiaT%2BKtXz2lBt2XA7OKidpudLRIl2EjafVuIPQk3rqhZjU01wXNoofovXUrNVPe3uNUT%2F4bajxUfqpDxTVoD13l26q%2BRRNH%2FKEa0n6jms7Hd%2BBntftQgxf3arnFcfXuNxR0GXs5kV3VR0PMKkTQ3ND85HQ3HO7MLfQAOU%2B0ohyd%2Bwov2TSL%2Be%2Fcyb%2FkR7%2BO36X%2F67jy7WDpgiAL4wADPxz4Hu8cgCB75oIYCLAOCMAhh8bATwTAT4iAmBNEYDgW6v1rx8PoOZ4QBTxwAWBjAdkCnxssjmG%2Fnro71ISIxUIiLOAGF%2BB%2Fgj28I%2FsAf49RXr1avj3x47%2Fq%2BdyiB6SI9RjN%2FE0s1vuYL4X3iadY3A%2BUpy77lGEnyWjY6v2uUdF9Esm%2FvIwQM4MA5KO18%2Fp%2Bz2Xc22kOxKoNmXPiQQmrWMiwZeJBB%2Bd2bFHv0%2F7SSOBtt1deOuezu1YRHNUgIqVB1%2F7ByCYgznh6GfhwRDfEP%2F3E3%2B5pFh9lC72%2FIV1flrgHakcRDqCw%2FJYXIv3CGvkPVSsysbF%2B6vnciTCdCdzsIP0olqxNGhQbfI1htnjZLYrjynLRZI7PErpEp3MVhyRGxezL5n2y0EPzyY91LVI76drsKd70xUq9vgb2pucjKH916A9toe5eb20Vxx%2FMLTXQXtPF%2B3tPu2lg%2BlivWJDn5PdA4Fd5egnVUbenLAx0NcAfWrHLvVU6vfZMii8RiLesfqJeKzYktV6xgYpDk6MHPtnTPzl2D%2Bb%2Br4m6vuw43AI6c3myDNk72W%2BSfSYKDDSKNA7Ze%2Fi4TFLrXuxMt9rQsDvCQES7W%2F%2FppWmjL7j9%2F6vKf9siq4YoMronxMDTPrHxIAvEQOwM9yf1RsDvl6u%2F5PEAE25foegn%2FyyFZbnwX45IrDb5m9p1dWbv1UG5%2F8D">
@@ -88,7 +90,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 > 虽然有以上两种方式，但是我们要清楚**技术是为业务服务的，某一项技术可能服务于多种业务**，比如说**强化学习**这门技术，可以单独拎出来讲一个技术专题，也可以结合具体业务（比如推荐和风控）讲一下具体的应用。所以，我最终决定将知识的组织方式分为两条线:
 > 1. **技术线**：这条线上我们更加专注于系统性地讲解某一项技术，比如强化学习，我们就会讲解里面的一些基础的算法，优化方法、应用场景等。简言之，就是**重某一项技术系统的理论体系，轻具体的业务实践**。  
 > 2. **业务线**：这条线上我们更加专注于如何提升业务指标(比如推荐算法中的点击率)，那么就会涉及到很多种技术(比如强化学习)如何合理地在该业务上进行实践的问题。简言之，就是**重具体的业务实践，轻某一项技术系统的理论体系**。   
-
+</details>
 
 # 如何使用本仓库
 本仓库是一个AI学习手册，知识点繁多，覆盖领域广泛。因此，我们**针对不同的读者，给出一些使用建议**。
@@ -101,12 +103,11 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 如果你是**AI工程师**。
 > 可以通过该仓库丰富自己的知识结构，也可以直接引用其中的代码提升开发效率。
 
-
 </details>
 
 # 参考资料
 国内比较流行的AI资料有周志华老师的[《机器学习》](https://item.jd.com/12762673.html)、李航老师的[《统计学习方法》](https://item.jd.com/12522197.html)、Andrew Ng的[Coursera课程](https://www.coursera.org/instructor/andrewng)，还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)等。
-温州大学黄海广老师的[《机器学习》](https://www.icourse163.org/course/WZU-1464096179)，该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
+黄海广老师的[《机器学习》](https://www.icourse163.org/course/WZU-1464096179)，该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
 
 接下来，我们就按照前文所说的知识组织方式一起走进AI的知识海洋吧！
 
