@@ -5,16 +5,16 @@
 
 # 更新
 2023年1月1日 完成前言部分
-<details close>
-<summary>更多...</summary>
+<details open>
+<summary><font color="blue">详情</font></summary>
 2022年12月30日 新建仓库
 </details>
 
 
 # 前言
 在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，帮助读者建立对**人工智能知识架构**的整体把握。
-<details close>
-<summary>更多...</summary>
+<details open>
+<summary><font color="blue">详情</font></summary>
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
@@ -67,13 +67,14 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 # 知识的组织方式
 在该小结中，我们介绍本仓库对知识的组织方式。我们尽可能选择一条多数人走过的学习之路，同时会对这期间遇到的知识进行**系统地组织和提炼**，以帮助读者高效、清晰地学习。
 
-<details close>
-<summary>更多...</summary>
+<details open>
+<summary><font color="blue">详情</font></summary>
 由于AI领域不存在统一的理论体系，当我们听到别人说到某个专业名词时，能知道其表达的含义就足够了。
 
 其实参考大部分AI从业者的学习路径就是一个不错的选择。俗话说，世界上本没有路，走的人多了也便成了路。这样，无论是在面试中、还是和同学同事交流中都不会引起太大的歧义。
 
-国内比较流行的AI资料有[《机器学习》(周志华著)](https://item.jd.com/12762673.html)、[《统计学习方法》(李航著)](https://item.jd.com/12522197.html)、[Andrew Ng的Coursera课程](https://www.coursera.org/instructor/andrewng)，还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)等。
+国内比较流行的AI资料有周志华老师的[《机器学习》](https://item.jd.com/12762673.html)、李航老师的[《统计学习方法》](https://item.jd.com/12522197.html)、Andrew Ng的[Coursera课程](https://www.coursera.org/instructor/andrewng)，还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)等。
+温州大学黄海广老师的[《机器学习》](https://www.icourse163.org/course/WZU-1464096179),该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
 
 这些资料不仅是算法面试的重点，也是循序渐进走进AI世界的阶梯。本仓库会的基础部分会用大量篇幅覆盖这些内容。因此，我们建立的知识体系也旨在能够帮助学习者梳理清这些知识即可。  
 
@@ -104,8 +105,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 # 如何使用本仓库
 本仓库是一个AI学习手册，知识点繁多，覆盖领域广泛。因此，我们**针对不同的读者，给出一些使用建议**。
-<details close>
-<summary>更多...</summary>
+<details open>
+<summary><font color="blue">详情</font></summary>
 
 如果你是**AI初学者**。
 > 可以优先学习**机器学习**部分的内容来了解一些基本方法论，并学习一些经典的机器学习算法。然后根据自己的兴趣爱好选择一个主攻的领域，比如计算机视觉或自然语言处理进行专项的学习。
