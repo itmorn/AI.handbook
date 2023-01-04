@@ -198,6 +198,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 计算机视觉
+todo...
+
 ## 自然语言处理
 ## 语音处理
 ## 推荐系统
