@@ -189,20 +189,30 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
     width="100%" /></a></p>
 
 ## 深度学习
+todo...
 ## 强化学习
+todo...
 ## 图论
+todo...
+
 </details>
 
 # 业务主题
-<details>
+
+<details open>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 计算机视觉
 todo...
 
 ## 自然语言处理
+todo...
+
 ## 语音处理
+todo...
+
 ## 推荐系统
+todo...
 
 </details>
 
