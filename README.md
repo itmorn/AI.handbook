@@ -1,8 +1,8 @@
-<style>
-H1{color:Black}
-H2{color:DarkOrange}
-p{color:Black}
-summary{color:blue}
+<style
+  type="text/css">
+h1 {color:red;}
+
+p {color:blue;}
 </style>
 
 # 更新
