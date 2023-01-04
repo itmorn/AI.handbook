@@ -1,1 +1,2 @@
-$${\color{red}Red}$$	
+%md ###  <span style="color:red">text</span>
+
