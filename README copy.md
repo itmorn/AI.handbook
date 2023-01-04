@@ -1,1 +1,1 @@
-$\color{color-code}{your-text-here}$
+$${\color{red}Red}$$	
