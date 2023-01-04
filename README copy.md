@@ -1,2 +1,1 @@
-<style>p{color:red;}</style>
-<p><em>foo</em></p>
+<span style="color:blue">some *blue* text</span>.
