@@ -101,13 +101,19 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 > 可以优先学习技术主题中**机器学习**和**深度学习**的内容，来了解一些基本方法论，并学习一些经典的机器学习算法。然后根据自己的兴趣爱好选择一个主攻的业务领域，比如计算机视觉进行专项的学习。
 
 如果你是**AI工程师**。
-> 可以通过该仓库丰富自己的知识结构，也可以直接引用其中的代码提升开发效率。
+> 可以通过该仓库丰富自己的知识结构，也可以直接引用其中的代码提升开发效率。  
 
+最后，本仓库会尽量使用通俗易懂的方式进行知识讲解，不过分拘泥于数学公式。
 </details>
 
 # 参考资料
-国内比较流行的AI资料有周志华老师的[《机器学习》](https://item.jd.com/12762673.html)、李航老师的[《统计学习方法》](https://item.jd.com/12522197.html)、Andrew Ng的[Coursera课程](https://www.coursera.org/instructor/andrewng)，还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)等。
-黄海广老师的[《机器学习》](https://www.icourse163.org/course/WZU-1464096179)，该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
+国内比较流行的AI资料有：  
+* 李航老师的[《统计学习方法》](https://item.jd.com/12522197.html)
+* 周志华老师的[《机器学习》](https://item.jd.com/12762673.html)
+* Andrew Ng的[《机器学习》课程](https://www.coursera.org/learn/machine-learning)和[《深度学习》课程](https://www.coursera.org/specializations/deep-learning#courses)
+* 吴飞老师的[《人工智能：模型与算法》课程](https://www.icourse163.org/course/0809ZJU022-1003377027)，该课程中的**人工智能概述**部分，可以帮助AI学习者快速且全面的认识AI的知识框架。
+* 黄海广老师的[《机器学习》课程](https://www.icourse163.org/course/WZU-1464096179)，该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
+* 还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)和[yolov5](https://github.com/ultralytics/yolov5)等。
 
 接下来，我们就按照前文所说的知识组织方式一起走进AI的知识海洋吧！
 
@@ -131,4 +137,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 
 # 讨论交流
-![](imgs/contacts.jpg)
+由于笔者知识有限，内容中难免会有纰漏，欢迎大家批评指正。  
+下图为本人微信名片，也欢迎大家与我一起学习和成长。  
+
+<img src="imgs/contacts.jpg"
+    width="40%" />
