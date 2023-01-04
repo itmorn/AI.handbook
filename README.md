@@ -1,73 +1,73 @@
-# 更新
-
-2023年1月1日 完成前言部分
-<details open>
-<summary>${\color{blue} \mathbb{详情} }$</summary>
-2022年12月30日 新建仓库
-</details>
-
 # 人工智能简介
 <details open>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
+## 人工智能的定义
+人工智能(Artificial Intelligence,AI)是以机器为载体所展示出来的人类智能，因此人工智能也被称为机器智能(Machine Intelligence)。人类一直在不懈努力，让机器模拟人类在视觉、听觉、语言和行为等方面的某些功能以提升生产能力、帮助人类完成更为复杂或有危险的工作，更多造福人类社会。——《人工智能导论：模型与算法》
+
 ## 人工智能的诞生
-四位学者在1955年提出了人工智能这一术语及
-研究范畴
- John McCarthy (时任Dartmouth数学系助理教授，
-1971年度图灵奖获得者)
- Marvin Lee Minsky (时任哈佛大学数学系和神经
-学系Junior Fellow，1969年度图灵奖获得者)
- Claude Shannon (Bell Lab, 信息理论之父)
- Nathaniel Rochester(IBM, 第一代通用计算机701
-主设计师)
- 让机器能像人那样认知、思考和学习, 即用计
-算机模拟人的智能
+达特茅斯人工智能夏季研究项目(Dartmouth Summer Research Project on Artificial Intelligence)是一个夏季研讨会，被广泛认为是人工智能作为一个研究领域的创始时刻。
+
+1956年，会议在新罕布什尔州的汉诺威举行了8周，会议聚集了计算机和认知科学领域最聪明的20名学者，专门讨论这个1955年8月31日的一个提案——[《A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence》](https://ojs.aaai.org/index.php/aimagazine/article/view/1904)
+
+
+<p align="center"><img src="imgs/Proposal.png"
+    title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
+    width="50%" /></a></p>
+
+该提案的四位作者为：
+- John McCarthy (时任Dartmouth数学系助理教授，1971年度图灵奖获得者)
+- Marvin Lee Minsky (时任哈佛大学数学系和神经学系Junior Fellow，1969年度图灵奖获得者)
+- Claude Shannon (Bell Lab, 信息理论之父)
+- Nathaniel Rochester(IBM, 第一代通用计算机701主设计师)
+
+<p align="center"><img src="imgs/proposers.png"
+    title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
+    width="80%" /></a></p>
+
+提案里列举了7个问题：
+1. Automatic Computers
+   > 自动计算器。如果一台机器能做一项工作，那么就可以编写自动计算器来模拟这台机器。
+2. How Can a Computer be Programmed to Use a Language
+   >如何编程让计算机使用一种语言。
+3. Neuron Nets
+   >如何让一组神经元排列可以形成一些概念。
+4. Theory of the Size of a Calculation
+   >关于计算规模的理论。
+5. Self-improvement
+   >一台真正智能的机器能够进行自我完善。
+6. Abstractions
+   >归纳与演绎的能力
+7. Randomness and Creativity
+   >随机性和创造性
+
+## 人工智能的发展历程
+<p align="center"><img src="imgs/development.jpeg"
+    title="https://www.sohu.com/a/227141453_445326"
+    width="80%" /></a></p>
+
 
 ## 从智能角度对人工智能的分类
-领域人工智能
+<p align="center">
+<a href ="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Classification%20from%20the%20perspective%20of%20intelligence.drawio#R7Vtbc6M2FP41eswOSCDEIxiczLQ7TZvpZHZfOhhkm1kMLsZxsr%2B%2BumFucuJ1Ym%2FrkvE44uiKdM736RzJAE1Wz7dltF5%2BLhKaAWgkzwAFAEJsOOybC16kgFiWFCzKNJEioxE8pN%2BpFJq1dJsmdKNkUlQVRVal664wLvKcxlVHFpVlsesWmxdZ0hGsowUdCB7iKBtKH9OkWqq3gE4jv6PpYln3bGJX5syi%2BNuiLLa56i8vcipzVlHdjHrHzTJKil1LhEKAJmVRVDK1ep7QjM9qd8amB3L3Qy5pXh1T4dcvpe%2FHN1%2Bdx2D2%2BGUX%2Fn5%2Fu7yxsGzmKcq2ai4AxBlr0N%2Bso5wPu3pRs4T%2F3vKx%2BvMir242Yg09VsAka6YGfpPPUgvxP7SA7%2FFPaAPfAZ4NQgxcV0gIIAj4Qd0ZG7bsT1WVM7bvGrJXYbrAHvzdMq3owzqKec6OaSOTLatVxp5MloyydJGzdMxmhZZMkNNdmLDFrttyWiOl%2B4xm8Pyd9vl5lVYvf9AsqtIiDzWl4aR52FRRWXlcGw80J5VDW5fmyYk1N3Sx4hrQrsjNqlUk3pZPNOmW6LZRbMuY3tMyXVE2a3x203zRqdBtkb3pglZvVHACXrKkdMrMkWejwFCSz8WTFPAlm6dZNimyohRLjeYkpnEs5rMsvtFWzozYls2b2JuSodSxXl2zfpYIY5K9LrXtRJnOEy0r%2BtwSKbu5pQV7q%2FKFFVG5rqHMRMGbhZRN7xqwMA0lW7aAwlKySOHTYt90Y6gsoWz1B%2BzWRkO7DV3gQUAwNzd3yj8%2FYICzsjHbKfAngBBRPQRuwAu7JvB8UcsDHuvCAS7L9UUC8X5DBIgBiClq%2BSLLFoVNnvBEm3xgBm9KdeEO7PwN6xZIS5Pa1stYLbTQioHp8wVOGch7KmOVJgnvSGlWjfSiqW1VbJTSSOyLpYJax%2BnwiDI%2FFWV6EJJElMy1EIJjQmfzAWq8HyJMk4FNGyMgcT%2FZQ5TAWIMS9rlQwtKwe59ZW2p7SBM7WocCoSctbdpLai1hU2o0GqFMSr%2F6yp70Ky0zG6Mfwv2hhZO9HbHxkT0fgbR8nl5VhFJM21N3R6lbUlX1vki5Qe0VyLCdLslA61NPMdQcyoo93diP5B3qYg%2FUJaB0zSQ%2BF4xYPWL1dWA1su3atGq0xkOsJuYQqtHZNnQ6R%2ByqoPqUlT8d32vYfhvf7QvhO0Swp3TIMS6N8M5Ay7xsvYxuixHdR3S%2FFnTHRtfMEBpguwMvie1kxPafg%2B3OpbAd4k%2B20fzBrgLiM%2B7kX35bP1jLu9vwT4rzX%2F76fjdL8hs4VLjQ5fEZ11OhG48cFR1iEkKAi7mElyHniTIRHmiSCTZIHjiaAhLUErcfXCIhfwuemIrxeIBMVGEvEOGmQASpmITlGnVfIgDF5ITNBhSzMWkNnjVoirCVzAp0szGGrUayPCNZ2pQklg40CZwhjPVkOWBGDageJkvD7oatLOhowlYQa%2FjyI8JWWvTSxLaviy51pNSls9dQ%2FfRw1xmCVtDtqI9toosSnSbAqZiBqISLBH4z9rBH2B5h%2B0pgG%2BFesBgNQbtG9o%2F2cbSGOAwdXxlmn7LsB4C%2BjdavAf2bhGAdrTfvxnmT9IJXtnFZl0bjQ7MNOvM32EeeK3PIt7lz4obCFZmIvfs7nRPWoKW8Js8RPsnQK7D4N%2BcZh5ckln5grAw%2FJhcD437L6EuMpHQ%2BUprPKdbfokkcd2Yc2JO%2Bj5RMiLoQgTXXZM51AK4FDffaWelET4L8FzwJeFF%2Bqa%2BidghGoj9WQSYV%2FfLEVSbMo0eSVxgftMNpI6CPgH4dgI6snk1q7j261gW9DNMcGul1Afop636qm0GOZIsaGi%2FhZ6D%2BzQyMnAsfntTE02ECcULBDynkDVh5lGAD4rRIQrgI%2FHYr5vt64iuS8KYjW4xs8T9gC9iLELhIdwPWOtPRu96Wr%2F4s4V9JGIdOKs7iNrxy8o6R%2BWHkwR6bH2vJ4s1v4VD4Dw%3D%3D">
+<img src="imgs/Classification%20from%20the%20perspective%20of%20intelligence.drawio.svg"
+    title="点击进入思维导图"
+    width="80%" />
+</a></p>
 
-通用人工智能或跨领
-域人工智能
 
-混合增强人工智能
-
-## 人工智能螺旋式发展之路：三次低谷
-
-第一次低谷：1973年英国发表James Lighthill 报告
-第二次低谷：日本智能（第五代）计算机研制失败
-第三次低谷：知识词典日趋势微、网络百科兴起
-
-## 人工智能发展中的主流方法
-符号主义人工智能(Symbolic AI)为核心的逻辑推理
-
-数据驱动 (data-driven)为核心的机器学习
-
-在“探索（未知空间）与利用（已有经验）（exploration vs. exploitation)”
-之间取得平衡为核心的强化学习
-
-## 人工智能三种主流方法区别
-学习模式 优势 不足
-用规则教 与人类逻辑推理相似，解
-释性强
-难以构建完备的知识规则
-库
-用数据学 直接从数据中学 以深度学习为例：依赖于
-数据、解释性不强
-用问题引导 从经验中进行能力的持续
-学习
-非穷举式搜索而需更好策
-略
-
-从数据到知识与能力，能力增强是最终目标 
-三种学习方法的综合利用值得关注！
-
-## 人机博弈: AlphaGo
-
-## 人类对智能的永无穷尽探索
+## 实现人工智能的主流方法
+<p align="center">
+<a href ="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=methods%20to%20achieve%20AI.drawio#R7V3ZcuO2Ev0aPjpFEsT2SGqZqbp3biaZSk0lLylZhJaKLPrS8pavDwAu4gLJiscEVWTPw5gCwRXd5zS6G00HTe5ePqWL%2B82XJBY7x3fjFwdNHd%2F3XI%2FJP6rlNWthft6wTrdx1uQeG75t%2FxbFkXnr4zYWD3lb1nRIkt1he19vXCb7vVgeam2LNE2e691WyS6uNdwv1qJ2G6rh23KxE61u37fxYVM8BT22fxbb9aa4skd4tud2sfxrnSaP%2B%2Fx6%2B2Qvsj13i%2BI0%2BSUfNos4ea40oZmDJmmSHLKtu5eJ2KnXWn9j8xN7y1tOxf5wyQH%2F%2FT2NouXNH%2FT79Pb778%2BzX75%2B2twEJDvN02L3mL8Lxyc7ecLo4X6xV7d9eM3fEvn%2Fo7rXaJXsDzcPegxD2cFj91IOouN%2BubXWf2eBEzEnkhvEibDDPLXB5TbXLcjhuLiYvO3sevmh2RsrL%2B3LR5GyIH9Ez5vtQXy7XyzVnmcpjrJtc7jbyV%2Be3Fzstuu93F7KtyJS2bAXz7NYDnZxLlq5U1HuON68eqZy%2F%2F6wPbz%2BKnaLwzbZzwy9%2Fcnxx8NhkR5CJY0nTpcJh%2FFYsY%2FfeeSDWN8pCageqNSq0mX5mD6JuN6jfo7kMV2KryLd3gn51tTb3e7XtQPqZ5RPuhaHNw6gU9UzFWIu1VHtRlM3b%2FmSPGUNashW291ukuySVA81WrGlWC71%2B0yTv0Rlzy3DAVanKFXJzcWxGF2v%2BJ0hjISlQpaqepKrzpNID%2BKl0pTrzSeRyKdKX2WXfC%2F3cjXJ4Q0TnP1%2BPoKF5%2BZ6vqkARZC3LXJ8WpenPiqq3Mh19V%2FoLUZtvZ1RJ5w4IXFmUtfmTkQrChgopWO8aAmVAsohktuyczR3GFKH89BhgTOTPV19lOw5c7hWWzZzQqb7uA4jLf18Qys1Qoq40NF0mQ%2BQHs2WyqqB2UpwDvMdd9s4VhfKJaJAaH2qx0PykA92hlnLTLCCy2QP0KFXdGiofrwQbGVUfbJk4nbV0vYfV21CaU21A%2By1VZuQtmqjzlQ7MFBykw4rMntKDGsih6ZaSCqiVLYUIiLfp3sUh1yfzEOfK5N5mLOdR41vY%2FSpUcuudoG1kl35AnhU7%2BmsFKT6tT3VzUDTkOaHfk22Spvc0vLFDfHxg59w%2FSz5O8wObMhGeSc%2FIC7YwARYoXY0VVAe%2Bg5nBkwHBAcEHwSCB4wUKpcrIeKkheHUYJ11B%2BGmWdWgIPw9A%2F9%2B3C%2Fg%2FG3cx5Zw30d%2BU%2Bioaxv5qQH5Jby7DkdqI5Rm%2FRSQH5B%2FwMhfN75Q37jPAPf7wX1qC%2Fd9aWy4x39%2BnQNIh9b%2F68%2F334LN50%2Bz3wTZ%2F%2BfPvz%2Ffxvsb30AB3OHUCWcV4584kecwzQ6h3IUucwNlTh89m5BUkrlxuSSXieoTBWoXUAlQSQdUggWLAxOmMP8WEdIBlTTdQJjTFpV05gYyarbBwTssKvlQL9A5cOzeCeTzuvB4yCoJGByGygPkKtjOYgHKhy8BfqK2AcUBxQeK4gGr22O4MMifq0F9iyBu8M0OC8TfM%2BoXIf85QH8T%2BANrwO%2FWJ6AYW7b%2FDRNOhe9YeYGUAT8tJgJcTQEUGYQ6jnuZ%2FS9JQvWRXML1UXIiMNUBZh1ODt2WMANzAHP8OHOsVoKYM0Biym%2Fdy03J99v%2FlKCe7X8%2BdOro3v5nvdn%2FvlUSKLIoG8lAPNJ2v9yYap8PoDeg9zDRu2n3E1baYRZCAWad9No6OSz8fs%2FAv9%2F0ZxdifoGFXYM%2B5qgRAGauXa9PQTJN258qaAf4B%2FgfD%2FzTehyY%2BsgA%2F1YdP97g3fdXCv%2BWfP6Y0TNxYFpEjz6eCmbRL9P5z7%2Fy9f%2F85%2FnLH2L%2B21d0Y7A1VKjXc9ik4up532IAHTbIvEDybJwAkQCRWCES4cVYUBOecELRoov4gec2M4qoZ2CSzhxBRuU2mXnY4fNCp0OVpqE2Ir3kB%2Bt0v0ndj9tYcwf6Cvo6CH1FDcsPMd7WVtemto7P7rtg3C%2By%2B85ZNlW77xxIdu%2FqRUFj2h%2BwDmN%2Bxmc9ke7RIASqrDRlrlEF%2BSEGQgBCGB8hBMd1Gr1RwviSQK6CEuwlgbAzroCAcsv0MPi1Zx8aOD4nYt2LjtuoK1H4KC2JimkBGVZJQzws8kVZkf6vzQUWqvjChX4jps2LoyFCVBqROoqpntEUzA4wOz7E7HjLL71aMWYiI0QQR%2FE5MvoB1xH127mndh1H5txANtGuX50fzrJMwKnOBpcKi3OFlf8rPzFWHZieQkSeagGFBYUdjMIiH9UUlnjt1aN2JwqDT%2Fn70KF%2Bc6JAL7T2bKUJEtr0HUkDMLBq8BkzBSucYDDZJPaTfE1pFAAnACeMihO42zMnjDKP8ApIwVYeoZwSnHMfcc7sEoQh2jwscevee2SrFkXTe0RdbldWzDVI%2BVxHm7L6QzpdiEeq8lBWmiiCaqJgQwy3IhENaioZUNNCBB7YNCAGX060%2F5pEZ%2BGx%2B5pErC50CNuNIngnKpBGeiGCnELOtH8RUB9Qf6Co36pAij17y8%2FMOjn4KPC1or61CqRN1GedLT8zP6g5eNwMFUOxIUD9oRYbYnXMN5SMs4v5I6w%2Barna0Fkk7B7yaXPNcdD8wEzXoG8IUc6Yw32V2iMhnnGN%2FjqHKNSeHgn6PMoThbIvyQAfAB8Mkg8KsC9iR8hQQtRq7Mg3RHuBECwQAu%2BPEKjdhIJSTVoppNL%2BhyIUAP%2FjLUJhqCDXVQkKs2oOPpTbewmKs5DYNfqzoJ4qQLnthYi%2BKQBcVpkoa40C5gPmDxTzG3XnyhJgfbmA%2FPEFe68D8y3FepuYzxCzjfnmYC%2FUCALMHynmFyrZG%2BaPL9R7HZhvKdLbwnzqW8Z8ZLLz2xVHiLL2Q%2F2VAT5zWAQVR4AO7NLBVVQcMZeMs1uEanzTgKsoOYLspXyiptDZZQTTLKBdghCryDCbnChGFenKEVQdxVFlRTqwBrDG4FkD14067BnrVGGbKwXQ%2BCYS18Ea9lJGUVPo7LKGKWW0zRpIbTDPxBoloRjnGkAoQCijJRRUTwfH2PQNBI%2Fb9Eyh8SWkXgehWEtIbRIKtrsGAZnSUY2Vreol7QD2AfY%2FAvavomZJwLy6EvJ24TmrAYlgfGmnnZYsuTQggWylnVZsizLX2XZMIjAlnnKVZirnA8ABwAHj4gDa1EebX0AzK6gPLNAHCxTAOA4WMH0LI2OBbBFy5kgC8AfwHzD4NyYAhJpiCXanAOP75kWn4F9UI3wb%2FW199QLzZs0T6llHf0PA6rjsANAf0H%2BE6E%2Fdvt0%2FhigfYL8N7Ccjwn5sykktK5kH6nM0WQEKqR7hvMhSJbouKdVLkaliCaYXqsldIYHa5kAUQyYK5DWIghjiw8gmU%2BDxpaleRW1zbCtNFXn1pATKPNs0YV6uFs50FpH%2B5FHITHwBkwbgguFyQUB4XTED2nedajy%2B7NNOyeDiiqXYVvqpYdrAqG0%2BOJGCyhTcAzEAMYyeGFBDQ9sVLSx%2FPXt8SaRXwgu2skibH92izL2QFdrnapdip7whmfk4dcYwppzU6if25g4rOUd%2FFUeFKXB9lUKgP7qnlzSwEBxTwDlD5hxULEM6U1HDrmOKQAZrP44pWxmsTceU%2FZoa5ET%2BaqSRv1znBrMNQP7hIn%2BrlpIf9J25RHyA%2Fg%2BdbvALsb8ARAtuKNqYIjAS2EZ%2FU%2FS6XL0ANAA0MCoaaJRQYoX93dfaBQKB6Z5IwFZkulsSkD%2FTRKnasbuE5M2XJBaqxz8%3D">
+<img src="imgs/methods%20to%20achieve%20AI.drawio.svg"
+    title="点击进入思维导图"
+    width="100%" />
+</a></p>
+能力增强是最终目标，多种学习方法的综合利用值得关注。比如AlphaGo中就结合使用了其中4种方法。
 
 </details>
 
-# 前言
+## 人工智能、机器学习和深度学习的关系
 在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，帮助读者建立对**人工智能知识架构**的整体把握，并引出本仓库的定位以及对知识的组织形式。
 <details open>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
@@ -120,7 +120,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 那么本仓库中，该如何对这个纷繁的大知识树进行组织梳理呢？不同的人群又该如何使用本仓库呢？
 </details>
 
-# 知识的组织方式
+# 本仓库对知识的组织方式
 在该小结中，我们介绍本仓库对知识的组织方式。我们尽可能选择一条多数人走过的学习之路，同时会对这期间遇到的知识进行**系统地组织和提炼**，以帮助读者高效、清晰地学习。  
 
 本仓库有两种组织方式，分别为**技术主题**和**业务主题**，如下：
@@ -196,10 +196,18 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 ## 语音处理
 ## 推荐系统
 
+# 更新
+
+2023年1月1日 完成前言部分
+<details open>
+<summary>${\color{blue} \mathbb{详情} }$</summary>
+2022年12月30日 新建仓库
+</details>
+
+
 
 # 讨论交流
-由于笔者知识有限，内容中难免会有纰漏，欢迎大家批评指正。  
-下图为本人微信名片，也欢迎大家与我一起学习和成长。  
-
+由于水平有限，内容中仍然会存在不足，欢迎读者提出宝贵意见。  
+下图为本人微信名片，欢迎一起交流。  
 <img src="imgs/contacts.jpg"
     width="40%" />
