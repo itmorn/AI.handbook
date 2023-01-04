@@ -1,12 +1,11 @@
-<span style="color:blue">some *blue* text</span>.
+<style>
+r { color: Red }
+o { color: Orange }
+g { color: Green }
+</style>
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+# TODOs:
 
-
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
-
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-
-<span style="color:red">some **This is Red Bold.** text</span>
+- <r>TODO:</r> Important thing to do
+- <o>TODO:</o> Less important thing to do
+- <g>DONE:</g> Breath deeply and improve karma
