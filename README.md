@@ -1,14 +1,10 @@
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-
 # 更新
+
+
 2023年1月1日 完成前言部分
 <details open>
-<summary>详情</summary>
+
+<summary>${\color{blue} 详情}$</summary>
 2022年12月30日 新建仓库
 </details>
 

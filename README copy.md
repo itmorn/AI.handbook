@@ -1,7 +1,2 @@
-<style
-  type="text/css">
-h1 {color:red;}
-
-p {color:blue;}
-</style>
-<p>okay</p>
+<style>p{color:red;}</style>
+*foo*
