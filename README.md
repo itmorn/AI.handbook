@@ -162,7 +162,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 > 可以通过该仓库丰富自己的知识结构，也可以直接引用其中的代码提升开发效率。  
 
 最后，本仓库会尽量使用通俗易懂的方式进行知识讲解，不过分拘泥于数学公式。
-</details>
+
 
 ## 参考资料
 国内比较流行的AI资料有：  
@@ -174,6 +174,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 * 还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)和[yolov5](https://github.com/ultralytics/yolov5)等。
 
 接下来，我们就按照前文所说的知识组织方式一起走进AI的知识海洋吧！
+</details>
+
 
 # 技术主题
 ## 机器学习
