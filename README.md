@@ -4,7 +4,7 @@
 2023年1月1日 完成前言部分
 <details open>
 
-<summary>${\color{blue} 详情}$</summary>
+<summary>${\color{blue} \mathbb{展开} }$</summary>
 2022年12月30日 新建仓库
 </details>
 
