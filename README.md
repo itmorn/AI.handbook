@@ -44,7 +44,7 @@
 ## 人工智能的发展历程
 <p align="center"><img src="imgs/development.jpeg"
     title="https://www.sohu.com/a/227141453_445326"
-    width="80%" /></a></p>
+    width="100%" /></a></p>
 
 
 ## 从智能角度对人工智能的分类
@@ -67,7 +67,7 @@
 
 
 ## 人工智能、机器学习和深度学习的关系
-在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，帮助读者建立对**人工智能知识架构**的整体把握，并引出本仓库的定位以及对知识的组织形式。
+在该小节中，我将带领读者快速总览一下**人工智能、机器学习和深度学习的关系**，并引出本仓库的定位以及对知识的组织形式。
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
@@ -106,11 +106,13 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
          title="https://twitter.com/DataScienceDojo/status/1557140164861902856"
          width="70%"/>
 </p>
-机器学习是一个范围宽阔、内容繁多、应用广泛的领域，并不存在(至少现在不存在)一个统一的理论体系涵盖所有内容[李航]。比如在上图中:
+机器学习是一个范围宽阔、内容繁多、应用广泛的领域，并不存在(至少现在不存在)一个统一的理论体系涵盖所有内容。——《统计学习方法》
 
-> Artificial intelligence下的Natural language processing(**自然语言处理**,NLP)就是一个抽象程度很高的任务，其子任务可以包括**自然语言理解**(Natural Language Understanding)和**自然语言推理**(Natural Language Inference)等。  
-> Machine learning中的Linear regression又是一个具体的算法。  
-> Deep learning中的CNN又是一类技术的统称。  
+比如在上图中:
+
+> - Artificial intelligence下的Natural language processing(**自然语言处理**,NLP)就是一个抽象程度很高的任务，其子任务可以包括**自然语言理解**(Natural Language Understanding)和**自然语言推理**(Natural Language Inference)等。  
+> - Machine learning中的Linear regression又是一个具体的算法。  
+> - Deep learning中的CNN又是一类技术的统称。  
 
 这个问题对很多AI学习、从业者造成了困扰，但我们必须面对这个现实。
 
@@ -124,7 +126,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 ## 知识的组织方式
 在该小结中，我们介绍本仓库对知识的组织方式。我们尽可能选择一条多数人走过的学习之路，同时会对这期间遇到的知识进行**系统地组织和提炼**，以帮助读者高效、清晰地学习。  
 
-本仓库有两种组织方式，分别为**技术主题**和**业务主题**，如下：
+本仓库有两种组织方式，分别为**技术专题**和**业务专题**，如下：
 
 
 <p align="center">
@@ -225,7 +227,6 @@ todo...
 
 
 # 讨论交流
-由于水平有限，内容中仍然会存在不足，欢迎读者提出宝贵意见。  
-下图为本人微信名片，欢迎一起学习交流。  
+由于水平有限，内容中会存在不足之处，欢迎读者提出宝贵意见。  
 <img src="imgs/contacts.jpg"
     width="40%" />
