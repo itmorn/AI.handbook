@@ -152,7 +152,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 * 李航老师的[《统计学习方法》](https://item.jd.com/12522197.html)
 * 周志华老师的[《机器学习》](https://item.jd.com/12762673.html)
 * Andrew Ng的[《机器学习》课程](https://www.coursera.org/learn/machine-learning)和[《深度学习》课程](https://www.coursera.org/specializations/deep-learning#courses)
-* 吴飞老师的[《人工智能：模型与算法》课程](https://www.icourse163.org/course/0809ZJU022-1003377027)，该课程中的**人工智能概述**部分，可以帮助AI学习者快速且全面的认识AI的知识框架。
+* 吴飞老师的[《人工智能：模型与算法》课程](https://www.icourse163.org/course/0809ZJU022-1003377027)，以及配套书籍[《人工智能导论：模型与算法》](https://item.jd.com/12653461.html)
 * 黄海广老师的[《机器学习》课程](https://www.icourse163.org/course/WZU-1464096179)，该老师的[GitHub](https://github.com/fengdu78/WZU-machine-learning-course)中也囊括了很多优秀的代码示例。
 * 还有一些知名的开源库，比如：[sklearn](https://scikit-learn.org/)、[pytorch](https://pytorch.org/)和[yolov5](https://github.com/ultralytics/yolov5)等。
 
