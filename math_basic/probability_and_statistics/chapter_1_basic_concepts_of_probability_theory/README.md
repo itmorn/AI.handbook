@@ -73,7 +73,7 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 - **不可能事件**：由**空集∅**组成的集合。
 
 下面举几个例子：  
-- 在 $E_2$ 中，若记事件 $A$ 为“第一次出现的是H”，则$A=\lbrace HHH,HHT,HTH,HTT \rbrace$  
+- 在 $E_2$ 中，若记事件 $A$ 为“第一次出现的是H”，则 $A=\lbrace HHH,HHT,HTH,HTT \rbrace$  
 
 
 
