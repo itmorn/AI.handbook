@@ -59,7 +59,7 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 ### (二)随机事件
 <p align="center"><img src="imgs/event_relationship.drawio.svg"
     title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
-    width="80%" /></a></p>
+    width=800 /></a></p>
 
 人们常常关心满足某种条件的那些样本点所组成的集合——即**随机事件，简称事件**。  
 > 注意：事件是一个集合。
@@ -77,7 +77,26 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 - 在 $E_6$（在一批灯泡中任意抽取一只，测试它的寿命）中，若记事件B为“寿命小于1000小时”，则 $B=\lbrace t|0≤t<1000 \rbrace$  
 - 在 $E_7$（记录某地一昼夜的最高温度和最低温度）中，若记事件C为“最高温度和最低温度相差10℃”，则 $C=\lbrace (x,y)|y-x=10,T_0≤x≤y≤T_1 \rbrace$  
 
+### (三)事件间的关系与事件的运算
+**事件是一个集合**，因而事件间的关系与事件的运算自然按照集合论中集合之间的关系和集合运算来处理。下面我们用韦恩图来直观的表示：
+<p align="center"><img src="imgs/event_calculate.drawio.svg"
+    title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
+    width=800 /></a></p>
+设试验E的样本空间为S，事件A，B是S的子集。  
 
+- **包含**：如图1-1，称事件B**包含**事件A。
+- **相等**：若A=B，称事件A与事件B**相等**。
+- **和事件**：如图1-2，事件 $A∪B$ 称为事件A和事件B的**和事件**。
+- **积事件**：如图1-3，事件 $A∩B$ 称为事件A和事件B的**积事件**。
+- **差事件**：如图1-4，事件 $A-B$ 称为事件A和事件B的**差事件**。
+- **互斥/互不相容**：如图1-5，事件A和事件B的是互斥的。
+- **逆/对立事件**：如图1-6，$A\cup B=S$ 且 $A \cap B=\varnothing$，称事件A和事件B互为**逆/对立事件**。
+
+
+设A、B、C为事件，事件的运算定律如下：  
+- **交换律**：$A∪B=B∪A$ ;  $A∩B=B∩A$。
+- **结合律**：$A∪(B∪C)=(A∪B)∪C$ ; $A∩(B∩C)=(A∩B)∩C$。
+- **分配律**：$$
 
 
 
