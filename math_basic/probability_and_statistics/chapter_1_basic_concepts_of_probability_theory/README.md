@@ -6,23 +6,19 @@
 
 例如，向上抛一石子必然下落；同性电荷必相互排斥等。
     
-<p align="center">
-<table><tr>
-<td><img src=imgs/rock.png border=1 width=200 height=200></td>
-<td><img src=imgs/charge.png border=1 width=200 height=200></td>
+<table align=center><tr>
+<td><img src=imgs/rock.png  width=200 height=200></td>
+<td><img src=imgs/charge.png  width=200 height=200></td>
 </tr></table>
-</p>
 
 - **随机现象**
 > 定义：在一定条件下进行试验，结果呈现不确定性，但在大量重复试验中其结果又具有**统计规律性**的现象。 
  
 例如，抛掷硬币之前无法肯定抛掷的结果是什么；在一次射击之前无法预测弹着点的确切位置等。
-<p align="center">
-<table><tr>
-<td><img src=imgs/coin.png border=1 width=200 height=200></td>
-<td><img src=imgs/shoot.png border=1 width=200 height=200></td>
+<table align=center><tr>
+<td><img src=imgs/coin.png  width=200 height=200></td>
+<td><img src=imgs/shoot.png  width=200 height=200></td>
 </tr></table>
-</p>
 
 
 概率论与数理统计是研究和揭示**随机现象统计规律性**的一门数学学科.
