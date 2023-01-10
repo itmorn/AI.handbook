@@ -100,8 +100,13 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 - **结合律**： 
     >$A∪(B∪C)=(A∪B)∪C$  
     >$A∩(B∩C)=(A∩B)∩C$
-- **分配律**： $$
-
+- **分配律**：  
+    >$A∪(B∩C)=(A∪B) ∩ (A∪C)$  
+    >$A∩(B∪C)=(A∩B) ∪ (A∩C)$  
+- **德摩根律**：  
+    >$\overline{A ∪ B}=\overline{A} ∩ \overline{B}$  
+    >$\overline{A ∩ B}=\overline{A} ∪ \overline{B}$  
+    >记忆口诀：长杠变短杠，开口换方向
 
 
 ## 3.频率与概率
