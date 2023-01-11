@@ -197,8 +197,9 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 
 
 举例：
-<p align="center"><img src=imgs/conditional_probability.drawio.svg
-    width=600 /></a></p>
+<p align="center">
+<img src="imgs/conditional_probability.drawio.svg" width=600 />
+</p>
 
 ### (二)乘法定理
 > 定义：设 $P(A)>0$，则有：
@@ -221,8 +222,9 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 试验E：掷一个骰子，观察出现的点数。  
 样本空间S={1,2,3,4,5,6}  
 
-<p align="center"><img src=imgs/sample_space_division.drawio.svg
-    width=400 /></a></p>
+<p align="center">
+<img src=imgs/sample_space_division.drawio.svg width=200 />
+</p>
 
 从上图可以看出，将样本空间S切分成了4个事件。
 
@@ -231,14 +233,16 @@ $S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃�
 > $$P(A)=P(A|B_1)P(B_1)+P(A|B_2)P(B_2)+...+P(A|B_n)P(B_n)$$  
 > 为**全概率公式**。
 
+
+
+
 使用场景：  
 在很多实际问题中，$P(A)$ 不易直接求得，但是却容易找到S的一个划分 $B_1,B_2,...,B_n$ ，且 $P(B_i)$ 和 $P(A|B_i)$ 是容易求得的，就可以使用该公式求 $P(A)$。
 
 举例（接着上面掷骰子的例子）：  
 
-
 <p align="center"><img src=imgs/sample_space_division.drawio.svg
-    width=400 /></a></p>
+    width=200 /></a></p>
 
 记事件A={点数为偶数}。易知：  
 $P(B_1)=P(B_2)=1/3$ ，   
@@ -258,7 +262,15 @@ $\\ \quad\quad = 1/2$
 这个骰子的质地是不均匀的。掷出1点和2点的概率为a，掷出3点和6点的概率为b，掷出4点的概率为c，掷出5点的概率为d。  
 此时就无法直接计算P(A)，就需要借助全概率公式了。
 
+**贝叶斯公式**：
 
 
+下面用一个图来总结**全概率公式**和**贝叶斯公式**做了一件什么事情。
+<p align="center">
+<img src="imgs/bayes.drawio.svg" width=800 />
+</p>
+
+全概率公式：三个对号区域的面积相加，求得A区域的面积。  
+贝叶斯公式：三个对号区域的面积相加，求得A区域的面积，进而求某个对号的面积占A区域面积的比率。
 
 ## 6.独立性
