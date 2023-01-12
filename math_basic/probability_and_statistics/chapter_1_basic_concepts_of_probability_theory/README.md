@@ -275,8 +275,11 @@ $\\ \quad\quad = 1/2$
 
 **c.贝叶斯公式**：
 > 定义：设A是一个试验E的事件， $B_1,B_2,...,B_n$ 为S的一个划分，且 $P(A)>0,P(B_i)>0(i=1,2,...,n)$，则称：
-> $$P(B_i|A)=\frac{P(B_iA)}{P(A)}=\frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{n}P(A|B_j)P(B_j) }$$  
+> <!-- > $$P(B_i|A)=\frac{P(B_iA)}{P(A)}=\frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{n} P(A|B_j)P(B_j)}$$   -->
+> <p align="center"><img align="center" src="https://i.upmath.me/svg/P(B_i%7CA)%3D%5Cfrac%7BP(B_iA)%7D%7BP(A)%7D%3D%5Cfrac%7BP(A%7CB_i)P(B_i)%7D%7B%5Csum_%7Bj%3D1%7D%5E%7Bn%7D%20P(A%7CB_j)P(B_j)%7D" alt="P(B_i|A)=\frac{P(B_iA)}{P(A)}=\frac{P(A|B_i)P(B_i)}{\sum_{j=1}^{n} P(A|B_j)P(B_j)}" /></p>
+> 
 > 为**贝叶斯公式**。或称**逆概率公式**（因为是执果索因的逻辑）。  
+
 
 可参考下图理解公式：
 <p align="center">
@@ -316,3 +319,7 @@ $$P(B_2|A)=0.64,\quad P(B_3|A)=0.12$$
 
 
 ## 6.独立性
+
+
+
+
