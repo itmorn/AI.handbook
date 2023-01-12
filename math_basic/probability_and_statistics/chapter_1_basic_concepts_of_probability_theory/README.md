@@ -363,17 +363,17 @@ $$P(B_2|A)=0.64,\quad P(B_3|A)=0.12$$
 >
 > 解读：  
 > - 在这个定义中，没有显示地列出上例结论中的四个条件，而是借助乘法公式和对称性进行了统一，即，这个定义隐含表达着 $P(B|A)=P(B)$ 和 $P(A|B)=P(A)$ 的条件。
-> - 同时，没有对另外两个条件进行要求，即，没有要求 $P(B|\overline{A})=P(B)$ 和 $P(A|\overline{B})=P(A)$。 其实，这两个条件不是充分条件，而是必要条件。证明见书中定理2（若事件A与B相互独立，则 $A$ 与 $\overline{B}$ ，$\overline{A}$ 与 $B$ ， $\overline{A}$ 与 $\overline{B}$ ，也相互独立）。  
+> - 同时，没有对另外两个条件进行要求，即，没有要求 $P(B|\overline{A})=P(B)$ 和 $P(A|\overline{B})=P(A)$。 其实，这两个条件不是充分条件，而是必要条件。证明见书中定理2（若事件A与B相互独立，则 $A$ 与 $\overline{B}$ ， $\overline{A}$ 与 $B$ ， $\overline{A}$ 与 $\overline{B}$ ，也相互独立）。  
 
 > 推广到3个事件：
 > 设A，B，C是三个事件，如果满足等式：
 > 
-> $$\left.\begin{array}{l}
-P(A B)=P(A) P(B), \\
-P(B C)=P(B) P(C), \\
-P(A C)=P(A) P(C), \\
-P(A B C)=P(A) P(B) P(C),
-\end{array}\right\}$$  
+> $$\begin{array}{l}
+P(AB)=P(A)P(B), \\
+P(BC)=P(B)P(C), \\
+P(AC)=P(A)P(C), \\
+P(ABC)=P(A)P(B)P(C),
+\end{array}$$  
 >则称A，B，C相互独立。
 
 > 推广到n个事件（n≥2）：  
