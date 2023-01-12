@@ -373,7 +373,7 @@ P(A B)=P(A) P(B), \\
 P(B C)=P(B) P(C), \\
 P(A C)=P(A) P(C), \\
 P(A B C)=P(A) P(B) P(C),
-\end{array}\right\}$$
+\end{array}\right\}$$  
 >则称A，B，C相互独立。
 
 > 推广到n个事件（n≥2）：  
