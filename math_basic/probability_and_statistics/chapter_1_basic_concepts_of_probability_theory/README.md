@@ -48,17 +48,13 @@ $E_7$: 记录某地一昼夜的最高温度和最低温度。
 样本空间中的元素，称为**样本点**。
 
 举例（第一节中7个试验的样本空间）：  
-
-$$\begin{aligned}
-S_1:&\lbrace H,T \rbrace \\
-S_2:&\lbrace HHH,HHT,HTH,THH,HTT,THT,TTH,TTT \rbrace \\
-S_3:&\lbrace 0,1,2,3 \rbrace \\
-S_4:&\lbrace 0,1,2,3,4,5,6 \rbrace \\
-S_5:&\lbrace 0,1,2,3,... \rbrace \\
-S_6:&\lbrace t|t≥0 \rbrace \\
-S_7:&\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace 这里x表示最低温度(以℃计)，y表示最高温度(以℃计)。并设这一地区的温度不会小于 T_0，也不会大于 T_1。  
-\end{aligned}$$
-
+$S_1:\lbrace H,T \rbrace$  
+$S_2:\lbrace HHH,HHT,HTH,THH,HTT,THT,TTH,TTT \rbrace$  
+$S_3:\lbrace 0,1,2,3 \rbrace$  
+$S_4:\lbrace 0,1,2,3,4,5,6 \rbrace$  
+$S_5:\lbrace 0,1,2,3,... \rbrace$  
+$S_6:\lbrace t|t≥0 \rbrace$  
+$S_7:\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace$ 这里x表示最低温度(以℃计)，y表示最高温度(以℃计)。并设这一地区的温度不会小于 $T_0$，也不会大于 $T_1$。  
 
 ### (二)随机事件
 <p align="center"><img src="imgs/event_relationship.drawio.svg"
@@ -158,7 +154,8 @@ S_7:&\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace 这里x表示最低温度(以℃计
 > 
 > - **规范性**：对于必然事件S，有 $P(S)=1$ 。 
 > 
-> - **可列可加性**：设 $A_1,A_2,...$ 是两两互不相容的事件，有 $P(A_1∪A_2∪...)=P(A_1)+P(A_2)+...$ 。 
+> - **可列可加性**：设 $A_1,A_2,...$ 是两两互不相容的事件，有： 
+> $$P(A_1∪A_2∪...)=P(A_1)+P(A_2)+...$$
 > 
 > 注意：**可列可加性**是可以针对无穷个事件而言的。
 
@@ -170,13 +167,14 @@ S_7:&\lbrace (x,y)|T_0≤x≤y≤T_1 \rbrace 这里x表示最低温度(以℃计
 > - $P(\overline{A})=1-P(A)$。
 > 
 > - 若 $B\supset A$ ，有：  
->   > - $P(B-A)=P(B)-P(A)$  
->   > - $P(B)≥P(A)$
+>   $$P(B-A)=P(B)-P(A)$$  
+>   $$P(B)≥P(A)$$
 >
-> - **加法公式**： $P(A∪B)=P(A)+P(B)-P(AB)$
+> - **加法公式**： 
+> $$P(A∪B)=P(A)+P(B)-P(AB)$$
 > 
 > - **有限可加性**：设 $A_1,A_2,...,A_n$ 是两两互不相容的事件，有：  
->  $P(A_1∪A_2∪...∪A_n)=P(A_1)+P(A_2)+...+P(A_n)$ 。
+>  $$P(A_1∪A_2∪...∪A_n)=P(A_1)+P(A_2)+...+P(A_n)$$
 
 
 ## 4.等可能概型(古典概型) 
