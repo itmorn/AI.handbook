@@ -374,6 +374,7 @@ P(BC)=P(B)P(C), \\
 P(AC)=P(A)P(C), \\
 P(ABC)=P(A)P(B)P(C),
 \end{array}$$  
+>
 >则称A，B，C相互独立。
 
 > 推广到n个事件（n≥2）：  
