@@ -43,11 +43,11 @@
 
 不论是离散型的或非离散型的随机变量X，都建立分布函数：
 
-$$F(x)=P \lbrace   X ≤x \rbrace, \quad-\infty<x<\infty$$
+$$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞$$
 
 若已知随机变量X的分布函数，进而能知道X落在任一区间 $(x_1,x_2]$ 上的概率:
 
-$$P \lbrace  x_1< X ≤ x_2 \rbrace =F(x_2)-F(x_1), \quad x_1<x_2$$
+$$P \lbrace  x_1< X ≤ x_2 \rbrace =F(x_2)-F(x_1), \quad x_1 < x_2$$
 这一部分会在后面的小节详细讲述。
 
 
