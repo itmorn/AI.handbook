@@ -238,7 +238,7 @@ P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbr
 $$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞ \qquad (1)$$
 
 本节我们研究一下分布函数的性质：
-> 性质1：$F(x)$ 是一个不减函数，即对于任意的 $x_1,x_2(x_1<x_2)$，有
+> 性质1：$F(x)$ 是一个不减函数，即对于任意的 $x_1,x_2(x_1 < x_2)$ ，有
 > $$F(x_2)-F(x_1)=P \lbrace x_1 < X ≤ x_2 \rbrace ≥ 0$$
 >
 > 性质2：$0 ≤ F(x) ≤ 1$ ，且
