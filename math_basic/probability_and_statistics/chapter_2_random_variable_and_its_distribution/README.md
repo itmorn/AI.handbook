@@ -232,13 +232,47 @@ P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbr
 
 显然，使用方法二计算更加方便。一般当 $n ≥ 20,p ≤ 0.05$ 时可以使用泊松分布当做二项分布的近似。
 
+## 3.随机变量的分布函数
+在第一节中，我们提到了，不论是离散型的或非离散型的随机变量X，都可以建立**分布函数**：
+
+$$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞ \qquad (1)$$
+
+本节我们研究一下分布函数的性质：
+> 性质1：$F(x)$ 是一个不减函数，即对于任意的 $x_1,x_2(x_1<x_2)$，有
+> $$F(x_2)-F(x_1)=P \lbrace x_1 < X ≤ x_2 \rbrace ≥ 0$$
+>
+> 性质2：$0 ≤ F(x) ≤ 1$ ，且
+> $$F(-∞)=\lim _{x \rightarrow-∞}F(x)=0,\quad F(∞)=\lim _{x \rightarrow∞}F(x)=1$$  
+>
+> 性质3： $F(x+0)=F(x)$，即 $F(x)$ 的右连续性。
+> 
+
+举例：  
+设随机变量 $X$ 的分布律为：
+
+$$\begin{array}{c|ccc}
+X & -1 & 2 & 3 \\
+\hline p_{k} & \frac{1}{4} & \frac{1}{2} & \frac{1}{4}
+\end{array}$$
+
+其分布函数为：
+$$F(x)=\left\{\begin{array}{ll}
+0, & x<-1, \\
+\frac{1}{4}, & -1 \leqslant x<2, \\
+\frac{3}{4}, & 2 \leqslant x<3, \\
+1, & x \geqslant 3 .
+\end{array}\right.$$
+
+分布函数的图像为：
+<p align="center"><img src="imgs/distribution_function.png"
+    width=400 alt="https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html"/></a></p>
+
+## 4.连续型随机变量及其概率密度
+
+
 
 
 <!-- 
-本节我们先研究离散型随机变量。
-## 3.随机变量的分布函数
-举例：
-- 记随机变量X为某元器件的寿命，它可能取的值充满一个区间，是无法按照次序一一列举的。
-## 4.连续型随机变量及其概率密度
+## 
 ## 5.随机变量的函数的分布
 ## 小结 -->
