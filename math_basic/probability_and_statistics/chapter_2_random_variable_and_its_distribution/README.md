@@ -256,7 +256,7 @@ X & -1 & 2 & 3 \\
 \end{array}$$
 
 其分布函数为：
-$$F(x)=\left\{\begin{array}{ll}
+$$F(x)=\left \lbrace \begin{array}{ll}
 0, & x<-1, \\
 \frac{1}{4}, & -1 \leqslant x<2, \\
 \frac{3}{4}, & 2 \leqslant x<3, \\
