@@ -165,6 +165,72 @@ P \lbrace X=3 \rbrace =0.205 & P \lbrace X=7 \rbrace =0.055 & \\
 
 从上图可以看到，当k增加时，概率 $P \lbrace X=k \rbrace$ 显示随之增加，直至达到最大值，随后开始减少。一般二项分布都具有这一性质。
 
+### (三)泊松分布
+
+在二项分布中，当 $n$ 很大， $p$ 很小，且 $np$ 等于一个常数时，会变为一个特殊的分布——**泊松分布**。此结论由泊松定理可以证明。 
+
+**泊松定理**：
+> 定义：设 $\lambda > 0$ 是常数，n是任意正整数，设 $np=\lambda$ ，则对于任一固定的非负整数 $k$ ，有：
+>
+> $$\lim_{n \rightarrow ∞}\left(\begin{array}{l}
+n \\
+k
+\end{array}\right) p^{k}\left(1-p \right)^{n-k}=\frac{\lambda^{k} e^{-\lambda} }{k !}$$
+>
+> 此定理由法国数学家泊松提出。他发现了在伯努利试验中，当重复次数很大而概率很小的时候，**二项分布的概率值和泊松分布的概率值近似**。
+>
+
+
+**泊松分布**：
+> 定义：设随机变量 $X$ 所有可能取的值为0, 1, 2, ... , 取各个值的概率为：
+>
+> $$P \lbrace X=k \rbrace = \frac{\lambda^{k} e^{-\lambda } }{k!}, \quad k=0,1,2, \cdots$$
+>
+> 其中 $\lambda > 0$ 是常数。则称 $X$ 服从参数为 $\lambda$ 的泊松分布，记为 $X \sim \pi(\lambda)$。
+>
+
+从泊松定理可以看出，泊松分布主要用来研究**稀有事件**。
+
+举几个服从泊松分布的例子：  
+- 一本书一页中的印刷错误数（
+    > 该页中每个字都可能出错，是一个伯努利分布，一页书中一般都会有几百个字，比如n=500，比较大，而印错的概率一般是一个小概率，因此可以认为是泊松分布。
+- 某地区在一天内邮递遗失的信件数。
+    > 可以将一天的时间切分为很多很小的区间，在每个小区间中丢与不丢邮件是一个伯努利分布，一天中有很多个小区间，比如n=1000，而丢邮件本身也是一个概率很小的现象，因此可以认为是泊松分布。
+- 某一医院在一天内的急诊病人数。
+- 某一地区一个时间间隔内发生交通事故的次数。
+- 在一个时间间隔内某种放射性物质发出的，经过计数器的a粒子数。
+
+例题：  
+计算机硬件公司制造某种特殊型号的微型芯片，次品率达0.1%，各例芯片成为次品相互独立。求在1000只产品中至少有2只次品的概率。以 $X$ 记产品中的次品数，$X\sim b(1 000,0.001)$。
+
+解析：  
+方法一（使用二项分布）：
+
+$$\begin{aligned}
+P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbrace  \\
+& =1-0.999^{1000}-\left(\begin{array}{c}
+1000 \\
+1
+\end{array}\right) 0.999^{999} \times 0.001 \\
+& \approx 1-0.3676954-0.3680635=0.2642411
+\end{aligned}$$
+
+<p align="center"><img src="imgs/Binomial_distribution_demo2.png"
+    width=600  alt="https://homepage.divms.uiowa.edu/~mbognar/applets/bin.html"/></a></p>
+
+方法二（使用泊松分布）：  
+因为这种情况属于n很大，p很小的情况，可以使用泊松分布近似计算。
+$\lambda=1000 \times 0.001=1$ 。
+
+$$\begin{aligned}
+P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbrace  \\
+& \approx 1-\mathrm{e}^{-1}-\mathrm{e}^{-1} \approx 0.2642411
+\end{aligned}$$
+
+<p align="center"><img src="imgs/Binomial_distribution_demo3.png"
+    width=600 alt="https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html"/></a></p>
+
+显然，使用方法二计算更加方便。一般当 $n ≥ 20,p ≤ 0.05$ 时可以使用泊松分布当做二项分布的近似。
 
 
 
