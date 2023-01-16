@@ -145,8 +145,18 @@ k
 
 将计算结果列表如下：
 
-<p align="center"><img src="imgs/Binomial_distribution_demo2.png"
-    width=400 /></a></p>
+$$\begin{array}{l}
+\hline
+\begin{array}{l|l|c}
+P \lbrace X=0 \rbrace =0.012 & P \lbrace X=4 \rbrace =0.218 & P \lbrace X=8 \rbrace =0.022 \\
+P \lbrace X=1 \rbrace =0.058 & P \lbrace X=5 \rbrace =0.175 & P \lbrace X=9 \rbrace =0.007 \\
+P \lbrace X=2 \rbrace =0.137 & P \lbrace X=6 \rbrace =0.109 & P \lbrace X=10 \rbrace =0.002 \\
+P \lbrace X=3 \rbrace =0.205 & P \lbrace X=7 \rbrace =0.055 & \\
+\hline
+\end{array}\\
+\text { 当 } k \geqslant 11 \text { 时, } \quad P \lbrace X=k \rbrace <0.001\\
+\hline
+\end{array}$$
 
 为了对本题的结果有一个直观了解，我们作出上表的图形：
 
