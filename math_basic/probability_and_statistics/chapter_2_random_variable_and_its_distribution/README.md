@@ -260,8 +260,9 @@ $$F(x)=\left \lbrace \begin{array}{ll}
 \end{array}\right.$$
 
 分布函数的图像为：
-<p align="center"><img src="imgs/distribution_function.png"
-    width=400 alt="https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html"/></a></p>
+
+<p align="center"><a href="https://www.geogebra.org/calculator/rabx3fpy">
+<img src="imgs/2023年1月17日离散型X分布函数.svg" width=700 /></a></p>
 
 ## 4.连续型随机变量及其概率密度
 
