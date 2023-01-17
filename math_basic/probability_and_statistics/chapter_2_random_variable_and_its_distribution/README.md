@@ -240,9 +240,10 @@ $$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞ \qquad (1)$$
 > $$F(-∞)=\lim _{x \rightarrow-∞}F(x)=0,\quad F(∞)=\lim _{x \rightarrow∞}F(x)=1$$  
 >
 > 性质3： $F(x+0)=F(x)$，即 $F(x)$ 的右连续性。
+> 也可理解为有右极限（从右边逼近过程中，极限值等于函数值）。另外，连续型随机变量的分布函数具备连续性（左连续并且右连续）。
 > 
 
-举例：  
+**例1**：  
 设随机变量 $X$ 的分布律为：
 
 $$\begin{array}{c|ccc}
@@ -264,7 +265,35 @@ $$F(x)=\left \lbrace \begin{array}{ll}
 <p align="center"><a href="https://www.geogebra.org/calculator/rabx3fpy">
 <img src="imgs/2023年1月17日离散型X分布函数.svg" width=700 /></a></p>
 
+
+**例2**：   
+一个靶子是半径为2m的圆盘，设击中靶上任一同心圆盘上的点的概率与该圆盘的面积成正比，并设射击都能中靶，以 $X$ 表示弹着点与圆心的距离。试求随机变量 $X$ 的分布函数。
+
+解析：  
+由题意可知，  
+当 $x < 0$ 时， $F(x)=0$ ；  
+当 $x ≥ 2$ 时， $F(x)=1$ ；  
+当 $0 ≤ x ≤ 2$ 时， $P(0 ≤ X ≤ x)=kx^2$ ，代入 $x=2,P=1$ 求得 $k=1/4$ 。   
+综上所述， $X$ 的分布函数为：
+
+$$F(x)=\left\lbrace\begin{array}{ll}
+0, & x<0 \\
+\frac{x^{2}}{4}, & 0 \leqslant x<2 \\
+1, & x \geqslant 2
+\end{array}\right.$$
+
+分布函数的图像为：  
+
+<p align="center"><a href="https://www.geogebra.org/calculator/qkxhzmxb">
+<img src="imgs/2023年1月17日打靶分布.svg" width=400 /></a></p>
+
+小结：我们通过例1和例2分别展示了离散型和连续型随机变量的分布函数的求解过程。
+
+
 ## 4.连续型随机变量及其概率密度
+
+
+
 
 <!-- 
 ## 
