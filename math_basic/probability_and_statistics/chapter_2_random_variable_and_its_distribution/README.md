@@ -29,18 +29,19 @@
 **c.随机变量的分布函数：**   
 我们在第一章说过，本门课是研究随机现象**统计规律性的**。那么怎么来研究呢？此时，数学家们就提出了一个这个分布函数，借助分布函数就能完整地描述随机变量取值的统计规律性。   
 
-不论是离散型的或非离散型的随机变量 $X$ ，都可以建立分布函数：
+不论是离散型的或非离散型的随机变量 $X$ ，都可以建立**分布函数**：
 
-$$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞ \qquad (1)$$
+$$F(x)=P \lbrace   X ≤ x \rbrace, \quad-∞< x <∞$$
 
-若已知随机变量 $X$ 的分布函数，进而能知道X落在任一区间 $(x_1,x_2]$ 上的概率:
+若已知随机变量 $X$ 的分布函数，就可以求**概率分布函数**（简称概率分布），即能知道X落在任一区间 $(x_1,x_2]$ 上的概率:
 
-$$P \lbrace  x_1< X ≤ x_2 \rbrace =F(x_2)-F(x_1), \quad x_1 < x_2 \qquad (2)$$
-这样，只要知道两个式子中的任意一个，都可以推导出另外一个，我们就能对随机变量的统计规律性有清晰的认知了。  
+$$P \lbrace  x_1< X ≤ x_2 \rbrace =F(x_2)-F(x_1), \quad x_1 < x_2$$
+
+PS：如果已知两个函数中的任意一个，就可以推导出另外一个。  
 
 另外预热一下：  
-- 当随机变量为离散型时，通过(2)式我们能知道随机变量取任意可能的**值**时所对应的概率，我们称(2)式为**分布律**。
-- 当随机变量为连续型时，通过(2)式我们能知道随机变量取任意可能的**区间**时所对应的概率，我们称(2)式为**概率密度函数**(简称密度函数)。
+- 当随机变量为离散型时，通过概率分布，我们能知道随机变量取任意可能的**值**时所对应的概率，我们也可称概率分布为**分布律**。
+- 当随机变量为连续型时，通过概率分布，我们能知道随机变量取任意可能的**区间**时所对应的概率，我们也可称概率分布为**概率密度函数**(简称密度函数)。
 
 
 
@@ -148,12 +149,8 @@ P \lbrace X=3 \rbrace =0.205 & P \lbrace X=7 \rbrace =0.055 & \\
 
 为了对本题的结果有一个直观了解，我们作出上表的图形：
 
-<p align="center"><img src="imgs/Binomial_distribution_demo.png"
-    width=400 /></a></p>
-
-<p align="center"><img src="imgs/2023年1月17日元器件寿命.svg"
-    href="https://www.geogebra.org/graphing/qk6tqdvw"
-    width=700 /></a></p>
+<p align="center"><a href="https://www.geogebra.org/graphing/qk6tqdvw">
+<img src="imgs/2023年1月17日元器件寿命.svg" width=700 /></a></p>
 
 从上图可以看到，当k增加时，概率 $P \lbrace X=k \rbrace$ 显示随之增加，直至达到最大值，随后开始减少。一般二项分布都具有这一性质。
 
@@ -208,7 +205,7 @@ P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbr
 \end{aligned}$$
 
 <p align="center"><img src="imgs/Binomial_distribution_demo2.png"
-    width=600  alt="https://homepage.divms.uiowa.edu/~mbognar/applets/bin.html"/></a></p>
+    width=600  title="https://homepage.divms.uiowa.edu/~mbognar/applets/bin.html"/></a></p>
 
 方法二（使用泊松分布）：  
 因为这种情况属于n很大，p很小的情况，可以使用泊松分布近似计算。
@@ -220,9 +217,15 @@ P \lbrace X \geqslant 2 \rbrace  & =1-P \lbrace X=0  \rbrace -P \lbrace X=1 \rbr
 \end{aligned}$$
 
 <p align="center"><img src="imgs/Binomial_distribution_demo3.png"
-    width=600 alt="https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html"/></a></p>
+    width=600 title="https://homepage.divms.uiowa.edu/~mbognar/applets/pois.html"/></a></p>
 
-显然，使用方法二计算更加方便。一般当 $n ≥ 20,p ≤ 0.05$ 时可以使用泊松分布当做二项分布的近似。
+显然，使用方法二计算更加方便。一般当 $n ≥ 20,p ≤ 0.05$ 时可以使用泊松分布当做二项分布的近似。下图为在不同 $n,p$ 的条件下，两个分布律的图像：
+<p align="center"><a href="https://www.geogebra.org/calculator/b2ptpr6b">
+<img src="imgs/2023年1月17日泊松对比二项.svg" width=700 /></a></p>
+
+**注意**：二项分布和泊松分布属于离散型概率分布，图中为画成了连续的图像主要是便于观察两者差异。
+
+
 
 ## 3.随机变量的分布函数
 在第一节中，我们提到了，不论是离散型的或非离散型的随机变量X，都可以建立**分布函数**：
