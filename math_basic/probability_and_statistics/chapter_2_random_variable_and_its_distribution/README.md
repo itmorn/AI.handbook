@@ -404,7 +404,7 @@ $$P \lbrace 1 < X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{4
 > 若连续型随机变量 $X$ 具有概率密度：
 >
 > $$f(x)=\left \lbrace \begin{array}{ll}
-\frac{1}{b-a}, & a<x<b, \\
+\frac{1}{b-a}, & a < x < b, \\
 0, & \text { 其他, }
 \end{array}\right.$$
 >
@@ -416,8 +416,8 @@ $$P \lbrace 1 < X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{4
 >  $X$ 的分布函数：  
 >
 > $$F(x)=\left \lbrace \begin{array}{ll}
-0, & x<a, \\
-\frac{x-a}{b-a}, & a \leqslant x<b, \\
+0, & x < a, \\
+\frac{x-a}{b-a}, & a \leqslant x < b, \\
 1, & x \geqslant b .
 \end{array}\right.$$
 > 
@@ -434,13 +434,13 @@ $f(x)$ 和 $F(x)$ 的图形为：
 由题意可知， $R$ 的概率密度为：  
 
 $$f(r)=\left \lbrace \begin{array}{ll}
-\frac{1}{1100-900}, & 900<r<1100, \\
+\frac{1}{1100-900}, & 900 < r < 1100, \\
 0, & \text { 其他. }
 \end{array}\right.$$
 
 因此，  
 
-$$P \lbrace 950<R \leqslant 1050 \rbrace=\int_{950}^{1050} \frac{1}{200} \mathrm{~d} r=0.5$$
+$$P \lbrace 950 < R \leqslant 1050 \rbrace=\int_{950}^{1050} \frac{1}{200} \mathrm{~d} r=0.5$$
 
 
 
