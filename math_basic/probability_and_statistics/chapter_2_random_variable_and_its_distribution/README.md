@@ -273,7 +273,7 @@ $$F(x)=\left \lbrace \begin{array}{ll}
 由题意可知，  
 当 $x < 0$ 时， $F(x)=0$ ；  
 当 $x ≥ 2$ 时， $F(x)=1$ ；  
-当 $0 ≤ x ≤ 2$ 时， $P(0 ≤ X ≤ x)=kx^2$ ，代入 $x=2,P=1$ 求得 $k=1/4$ 。   
+当 $0 ≤ x ≤ 2$ 时， $P(0 ≤ X ≤ x)=kx^2$ ，代入 $(x=2,P=1)$ ，求得 $k=1/4$ 。   
 综上所述， $X$ 的分布函数为：
 
 $$F(x)=\left\lbrace\begin{array}{ll}
@@ -289,13 +289,31 @@ $$F(x)=\left\lbrace\begin{array}{ll}
 
 小结：我们通过例1和例2分别展示了离散型和连续型随机变量的分布函数的求解过程。
 
+<hr/>
 
 ## 4.连续型随机变量及其概率密度
+我们使用二项分布作为引例。假设有 $X∼b(200,0.5)$ ，下图为其概率分布（分布律），**所有柱子高度之和等于1**：
+<p align="center"><a href="https://www.geogebra.org/calculator/qkxhzmxb">
+<img src="imgs/2023年1月17日221014二项分布.png" width=600 /></a></p>
+
+其分布函数为： $F(x)=P \lbrace X≤x \rbrace$ ， 假如我们想计算 $F(100)$， 计算方法就是求**前100根柱子高度之和**，即：
+$$F(100)=\sum_{k=0}^{100}P\lbrace X=k \rbrace$$
+
+
+
+下面引出连续型随机变量的分布，以正态分布为例。假设有  $X∼N(0,1)$ ，下图为其概率分布（密度函数），**曲线下方的面积等于1**：
+
+<p align="center"><a href="https://www.geogebra.org/calculator/qkxhzmxb">
+<img src="imgs/2023年1月17日222120正态分布.png" width=600 /></a></p>
+
+其分布函数为： $F(x)=P \lbrace X≤x \rbrace$ ， 假如我们想计算 $F(0)$， 计算方法就是**求 $(-∞,0]$ 区间内的面积**，即：
+$$F(0)=\int_{-∞}^{0} f(t)dt$$
 
 
 
 
 <!-- 
+$$F(x)=\int_{-∞}^{x} f(t) \mathrm{d} t$$
 ## 
 ## 5.随机变量的函数的分布
 ## 小结 -->
