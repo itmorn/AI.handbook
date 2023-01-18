@@ -389,7 +389,7 @@ $$
 
 (3) 
 
-$$P \lbrace 1<X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{48}$$
+$$P \lbrace 1 < X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{48}$$
 
 
 
