@@ -400,6 +400,47 @@ $$P \lbrace 1 < X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{4
 
 下面介绍三种重要的连续型随机变量：
 ### (一)均匀分布
+定义：
+> 若连续型随机变量 $X$ 具有概率密度：
+>
+> $$f(x)=\left \lbrace \begin{array}{ll}
+\frac{1}{b-a}, & a<x<b, \\
+0, & \text { 其他, }
+\end{array}\right.$$
+>
+>则称 $X$ 在区间 $(a,b)$ 上服从**均匀分布(Uniform Distribution)**，记为  $X\sim U(a,b)$ 。
+>
+> 意义：  
+> 随机变量 $X$ 落在区间 $(a,b)$ 的子区间内的概率只依赖于子区间的长度而与子区间的位置无关。
+>
+>  $X$ 的分布函数：  
+>
+> $$F(x)=\left \lbrace \begin{array}{ll}
+0, & x<a, \\
+\frac{x-a}{b-a}, & a \leqslant x<b, \\
+1, & x \geqslant b .
+\end{array}\right.$$
+> 
+
+$f(x)$ 和 $F(x)$ 的图形为：
+
+<p align="center"><a href="https://www.geogebra.org/graphing/xc8w655u">
+<img src="imgs/2023年1月18日124818均匀分布.svg" width=600 /></a></p>
+
+**例题：**  
+设电阻值 $R$ 是一个随机变量，均匀分布在 900~1100Ω 。求 $R$ 的概率密度及 $R$ 落在 950~1050Ω 的概率。  
+
+解析：  
+由题意可知， $R$ 的概率密度为：  
+
+$$f(r)=\left \lbrace \begin{array}{ll}
+\frac{1}{1100-900}, & 900<r<1100, \\
+0, & \text { 其他. }
+\end{array}\right.$$
+
+因此，  
+
+$$P \lbrace 950<R \leqslant 1050 \rbrace=\int_{950}^{1050} \frac{1}{200} \mathrm{~d} r=0.5$$
 
 
 
