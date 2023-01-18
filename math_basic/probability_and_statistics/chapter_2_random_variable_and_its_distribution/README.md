@@ -338,8 +338,63 @@ $$F(0)=\int_{-∞}^{0} f(t)dt$$
 > 它是某一随机变量 $X$ 的分布函数， $f(x)$ 是 $X$ 的概率密度。
 >
 
-下面介绍三种重要的连续型随机变量：
-### (一)均匀分布
+**例题：**  
+
+设随机变量 $X$ 具有概率密度：
+
+$$f(x)=\left \lbrace \begin{array}{ll}
+k x, & 0 \leqslant x<3, \\
+2-\frac{x}{2}, & 3 \leqslant x \leqslant 4, \\
+0, & \text { 其他. }
+\end{array}\right.$$
+
+(1)确定常数k。(2)求 $X$ 的分布函数 $F(x)$ 。(3)求 $P \lbrace 1 < X ≤ \frac{7}{2}\rbrace$ 。
+
+解析：  
+(1) 由 $\int_{-∞}^{∞} f(x) dx=1$ ，得 
+
+$$\int_{0}^{3} kx ~dx+\int_{3}^{4}\left(2-\frac{x}{2}\right) dx=1$$
+
+解得 $k=\frac{1}{6}$ ，于是 $X$ 的概率密度为：
+
+$$f(x)=\left \lbrace \begin{array}{ll}
+\frac{x}{6}, & 0 \leqslant x<3, \\
+2-\frac{x}{2}, & 3 \leqslant x<4, \\
+0, & \text { 其他. }
+\end{array}\right.$$
+
+(2)  $X$ 的分布函数为：
+
+$$F(x)=\left \lbrace \begin{array}{ll}
+0, & x<0, \\
+\int_{0}^{x} \frac{x}{6} \mathrm{~d} x, & 0 \leqslant x<3, \\
+\int_{0}^{3} \frac{x}{6} \mathrm{~d} x+\int_{3}^{x}\left(2-\frac{x}{2}\right) \mathrm{d} x, & 3 \leqslant x<4, \\
+1, & x \geqslant 4 .
+\end{array}\right.$$
+
+即  
+
+$$
+F(x)=\left \lbrace \begin{array}{ll}
+0, & x<0, \\
+\frac{x^{2}}{12}, & 0 \leqslant x<3, \\
+-3+2 x-\frac{x^{2}}{4}, & 3 \leqslant x<4, \\
+1, & x \geqslant 4 .
+\end{array}\right.
+$$
+
+
+<p align="center"><a href="https://www.geogebra.org/calculator/jfyuuy9s">
+<img src="imgs/2023年1月18日120032例题概率密度.svg" width=600 /></a></p>
+
+(3) 
+
+$$P \lbrace 1<X \leqslant \frac{7}{2} \rbrace =F(\frac{7}{2})-F(1)=\frac{41}{48}$$
+
+
+
+<!-- 下面介绍三种重要的连续型随机变量：
+### (一)均匀分布 -->
 
 
 
