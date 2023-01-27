@@ -1,5 +1,5 @@
 # 人工智能简介
-<details open>
+<details close>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 人工智能的定义
@@ -101,7 +101,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 </details>
 
 # 关于本仓库
-<details open>
+<details close>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 知识的组织方式
@@ -161,8 +161,8 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 
 # 技术专题
-<details open>
-<summary>${\color{blue} \mathbb{详情} }$</summary>
+<!-- <details open>
+<summary>${\color{blue} \mathbb{详情} }$</summary> -->
 
 ## 机器学习
 <p align="center">
@@ -182,8 +182,8 @@ todo...
 
 # 业务主题
 
-<details open>
-<summary>${\color{blue} \mathbb{详情} }$</summary>
+<!-- <details open>
+<summary>${\color{blue} \mathbb{详情} }$</summary> -->
 
 ## 计算机视觉
 todo...
@@ -199,12 +199,12 @@ todo...
 
 </details>
 
-# 更新日志
+<!-- # 更新日志
 2023年1月5日 完成前言部分
 <details close>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 2022年12月30日 新建仓库
-</details>
+</details> -->
 
 
 # 讨论交流
