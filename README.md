@@ -1,5 +1,5 @@
 # 人工智能简介
-<details close>
+<details open>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 人工智能的定义
@@ -50,7 +50,7 @@
 ## 从智能角度对人工智能的分类
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg" target="_blank">
-<img src="imgs//Classification_from_the_perspective_of_intelligence.drawio.svg"
+<img src="imgs/Classification_from_the_perspective_of_intelligence.drawio.svg"
     width="80%" />
 </a></p>
 
