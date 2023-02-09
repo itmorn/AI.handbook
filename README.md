@@ -47,19 +47,19 @@
     width="1000" /></a></p>
 
 
-## 从智能角度对人工智能的分类
+## 从智能角度对人工智能的分类：
 <p align="center">
-<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg">
-<img src="imgs/Classification_from_the_perspective_of_intelligence.drawio.svg"
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.svg">
+<img src="imgs/Classification_from_the_perspective_of_intelligence.svg"
     width="600" />
 </a></p>
 
 
-## 实现人工智能的主流方法
+## 实现人工智能的主流方法：
 <p align="center">
-<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/methods_to_achieve_AI.drawio.svg">
-<img src="imgs/methods_to_achieve_AI.drawio.svg"
-    width="1200" />
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/methods_to_achieve_AI.svg">
+<img src="imgs/methods_to_achieve_AI.svg"
+    width="1000" />
 </a></p>
 能力增强是最终目标，多种学习方法的综合利用值得关注。比如AlphaGo中就结合使用了其中4种方法。
 
@@ -171,7 +171,10 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 
 ## 深度学习
-todo... 
+<p align="center">
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/DL.svg">
+<img src="imgs/DL.svg"
+    width="1200" /></a></p>
 ## 强化学习
 todo...
 ## 图表示学习
