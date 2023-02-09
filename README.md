@@ -111,7 +111,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Technical_topics.drawio.svg">
 <img src="imgs/Technical_topics.drawio.svg"
-    width="500" />
+    width="400" />
 </a></p>
 
 </br>
@@ -120,7 +120,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Business_topics.drawio.svg">
 <img src="imgs/Business_topics.drawio.svg"
-    width="600" /></a></p>
+    width="500" /></a></p>
 
 
 采用这种组织方式的理由是——**对学习和工作都实用**。解释如下：  
@@ -186,7 +186,7 @@ todo...
 
 ## 计算机视觉
 <p align="center">
-<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/machine_learning.drawio.svg">
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/CV.svg">
 <img src="imgs/CV.svg"
     width="1200" /></a></p>
 
