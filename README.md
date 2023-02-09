@@ -13,7 +13,7 @@
 
 <p align="center"><img src="imgs/Proposal.png"
     title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
-    width="50%" /></a></p>
+    width="200" /></a></p>
 
 该提案的四位作者为：
 - John McCarthy (时任Dartmouth数学系助理教授，1971年度图灵奖获得者)
@@ -23,7 +23,7 @@
 
 <p align="center"><img src="imgs/proposers.png"
     title="https://www.cantorsparadise.com/the-birthplace-of-ai-9ab7d4e5fb00"
-    width="80%" /></a></p>
+    width="400" /></a></p>
 
 提案里列举了7个问题：
 1. Automatic Computers
@@ -44,14 +44,14 @@
 ## 人工智能的发展历程
 <p align="center"><img src="imgs/development.jpeg"
     title="https://www.sohu.com/a/227141453_445326"
-    width="100%" /></a></p>
+    width="1000" /></a></p>
 
 
 ## 从智能角度对人工智能的分类
 <p align="center">
-<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg" target="_blank">
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg">
 <img src="imgs/Classification_from_the_perspective_of_intelligence.drawio.svg"
-    width="80%" />
+    width="600" />
 </a></p>
 
 
@@ -59,7 +59,7 @@
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/methods_to_achieve_AI.drawio.svg">
 <img src="imgs/methods_to_achieve_AI.drawio.svg"
-    width="100%" />
+    width="1200" />
 </a></p>
 能力增强是最终目标，多种学习方法的综合利用值得关注。比如AlphaGo中就结合使用了其中4种方法。
 
@@ -68,13 +68,13 @@
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning2.png"
          title="https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/"
-         width="70%" />
+         width="700" />
 </p>
 
 <p align="center">
     <img src="./imgs/difference_between_ai__machine_learning_and_deep_learning.png"
          title="https://www.designnews.com/electronics-test/4-reasons-use-artificial-intelligence-your-next-embedded-design"
-         width="70%" />
+         width="650" />
 </p>
 </br>   
 
@@ -99,7 +99,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 </details>
 
 # 关于本仓库
-<details close>
+<details open>
 <summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 知识的组织方式
@@ -114,12 +114,13 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
     width="500" />
 </a></p>
 
+</br>
 <hr>
-
+</br>
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Business_topics.drawio.svg">
 <img src="imgs/Business_topics.drawio.svg"
-    width="750" /></a></p>
+    width="700" /></a></p>
 
 
 采用这种组织方式的理由是——**对学习和工作都实用**。解释如下：  
@@ -164,7 +165,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 <p align="center">
 <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/machine_learning.drawio.svg">
 <img src="imgs/machine_learning.drawio.svg"
-    width="1000" /></a></p>
+    width="1200" /></a></p>
 
 
 
