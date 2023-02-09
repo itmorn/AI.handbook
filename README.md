@@ -49,7 +49,7 @@
 
 ## 从智能角度对人工智能的分类
 <p align="center">
-<a target="_blank" href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg">
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/Classification_from_the_perspective_of_intelligence.drawio.svg" target="_blank">
 <img src="imgs//Classification_from_the_perspective_of_intelligence.drawio.svg"
     width="80%" />
 </a></p>
