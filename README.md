@@ -172,7 +172,7 @@ PS：[北京通用人工智能研究院](https://baike.baidu.com/item/%E5%8C%97%
 
 ## 深度学习
 <p align="center">
-<!-- <a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/DL.svg"> -->
+<a href ="https://raw.githubusercontent.com/itmorn/AI.handbook/master/imgs/DL.svg">
 <img src="imgs/DL.svg"
     width="1200" /></a></p>
 
