@@ -23,5 +23,7 @@ Unfold是负责拆分的，Fold与之相反，是负责折叠的，即将一叠�
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/MaxPool.ipynb)
 
 ## 最大值反向池化（MaxUnpool）
-[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/MaxUnpool.ipynb)
+[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/MaxUnpool.ipynb)
 
+## 平均值池化（AvgPool）
+[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/AvgPool.ipynb)
