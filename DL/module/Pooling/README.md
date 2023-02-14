@@ -1,6 +1,6 @@
-# 卷积（Convolution）
+# 池化（Pooling）
 
-## 卷积（Conv）
+<!-- ## 卷积（Conv）
 常规使用场景为下采样，即对张量局部特征进行汇总计算。    
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Convolution/conv.ipynb)
 
@@ -14,4 +14,4 @@
 
 ## 折叠（Fold）
 Unfold是负责拆分的，Fold与之相反，是负责折叠的，即将一叠小张量合并为一个大张量。用户可以自己指定合并方式，小张量重叠的位置会相加。    
-[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Convolution/ford.ipynb)
+[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Convolution/ford.ipynb) -->
