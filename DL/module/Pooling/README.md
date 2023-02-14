@@ -1,5 +1,8 @@
 # 池化（Pooling）
 
+[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/MaxPool.ipynb)
+
+
 <!-- ## 卷积（Conv）
 常规使用场景为下采样，即对张量局部特征进行汇总计算。    
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Convolution/conv.ipynb)
