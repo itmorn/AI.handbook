@@ -54,3 +54,12 @@
 ## 常量填充（ConstantPad）
 > [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Padding/ConstantPad.ipynb) 使用常量填充输入张量。
 
+
+
+# 激活函数（Activations）
+## element-wise汇总
+> [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Activations/element-wise.ipynb) 
+
+
+## vector-wise汇总
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Activations/vector-wise.ipynb)
