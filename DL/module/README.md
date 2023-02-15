@@ -39,3 +39,11 @@ Unfold是负责拆分的，Fold与之相反，是负责折叠的，即将一叠�
 和平均池化类似，区别在于加和之前先对每个元素取p次方，再求和，最后再开p次根号  
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/LPPool.ipynb)
 
+## 自适应最大值池化（AdaptiveMaxPool）
+对由多个输入平面组成的输入信号上应用二维自适应最大池化。用户只需要指定一个输出尺寸，该算子会自动采用池化策略。  
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/AdaptiveMaxPool.ipynb)
+
+## 自适应平均值池化（AdaptiveAvgPool）
+对由多个输入平面组成的输入信号上应用二维自适应最大池化。用户只需要指定一个输出尺寸，该算子会自动采用池化策略。  
+[![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/AdaptiveAvgPool.ipynb)
+
