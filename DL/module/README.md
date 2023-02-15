@@ -32,5 +32,5 @@ Unfold是负责拆分的，Fold与之相反，是负责折叠的，即将一叠�
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/AvgPool.ipynb)
 
 ## 分数最大值池化（FractionalMaxPool）
-这个算子不常用，主要可以调节output_ratio=0.5，算法可以自动选择池化方式  
+用户可以指定一个分数，该算子在执行最大值池化的同时，使得输出的尺寸 = 输入尺寸 * 分数  
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/FractionalMaxPool.ipynb)
