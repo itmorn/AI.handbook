@@ -14,3 +14,8 @@
 ## 分数最大值池化（FractionalMaxPool）
 这个算子不常用，主要可以调节output_ratio=0.5，算法可以自动选择池化方式  
 [![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/FractionalMaxPool.ipynb)
+
+## 幂平均池化（FractionalMaxPool）
+和平均池化类似，区别在于加和之前先对每个元素取p次方，再求和，最后再开p次根号  
+[![](/imgs/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/module/Pooling/LPPool.ipynb)
+
