@@ -68,7 +68,7 @@
 # 规范化（Normalization）
 Norm对比:
 <p align="center">
-<img src="./imgs/4类Norm对比.png"
+<img src="./Normalization/imgs/4类Norm对比.png"
     width="2000" /></p>
 
 ## 批量归一化（BatchNorm）
