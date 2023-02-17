@@ -10,6 +10,9 @@ Norm对比:
 ## LayerNorm
 > [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Normalization/LayerNorm.ipynb)
 
+## InstanceNorm
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Normalization/InstanceNorm.ipynb)
+
 ## GroupNorm
 > [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Normalization/GroupNorm.ipynb)
 
