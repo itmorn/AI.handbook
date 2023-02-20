@@ -3,10 +3,20 @@
 2. 递归神经网络(recursive neural network)是空间上的展开,处理的是树状结构的信息,是无环图
 
 ## 循环神经网络单元（RNNCell）
-RNN和RNNCell的区别
-RNN和RNNCell层的区别在于前者一次能够处理整个序列，而后者一次只处理序列中一个时间点的数据，前者封装更完备更易于使用，后者更具灵活性。 实际上RNN层的一种后端实现方式就是调用RNNCell来实现的。  
 > [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/RNNCell.ipynb)  
 
 ## 循环神经网络（RNN）
 > [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/RNN.ipynb)  
+
+## LSTM网络单元（LSTMCell）
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/LSTMCell.ipynb)  
+
+## LSTM神经网络（LSTM）
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/LSTM.ipynb)  
+
+## GRU网络单元（GRUCell）
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/GRUCell.ipynb)  
+
+## GRU神经网络（GRU）
+> [![](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/itmorn/AI.handbook/blob/main/DL/torch/nn/Recurrent/GRU.ipynb)  
 
