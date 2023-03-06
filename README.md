@@ -1,6 +1,6 @@
 # 人工智能简介
 <details open>
-<summary><a>详情</a></summary>
+<summary>${\color{blue} \mathbb{详情} }$</summary>
 
 ## 人工智能的定义
 人工智能(Artificial Intelligence,AI)是以机器为载体所展示出来的人类智能，因此人工智能也被称为机器智能(Machine Intelligence)。人类一直在不懈努力，让机器模拟人类在视觉、听觉、语言和行为等方面的某些功能以提升生产能力、帮助人类完成更为复杂或有危险的工作，更多造福人类社会。——《人工智能导论：模型与算法》
